@@ -26,7 +26,7 @@ In the examples there are two function types F1 and F2.
 The dotted lines are on-going function request/response exchanges.
 **The scientific challenge is: selecting which computer should execute the next function request, in such a way to minimise response times.**
 
-![Problem](pictures/percom2018.png)
+![Problem](pictures/percom2019.png)
 
 Since computers and network links may be very heterogeneous and the demands highly varying (due to, e.g., mobility of users) we cannot tackle this problem by means of a classical optimisation problem.
 
