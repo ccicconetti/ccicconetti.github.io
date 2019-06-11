@@ -11,6 +11,7 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 
 ### Highlights
 
+- [Serverless ETSI MEC](etsimec.md) project, new GitHub repositories
 - [Low-latency Distributed Computation Offloading for Pervasive Environments](percom2019.md) presented at IEEE PerCom 2019
 - [An Architectural Framework for Serverless Edge Computing: Design and Emulation Tools](cloudcom2018.md) presented at IEEE CloudCom 2018
 
@@ -18,3 +19,5 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 
 - [Short bio](bio.md)
 - [Publications](publications.md)
+- [Software](software.md)
+- [Editorial activities](editorial.md)
