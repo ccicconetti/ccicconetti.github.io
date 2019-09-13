@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cicconetti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ccicconetti.github.io
+  * I am cicconetti (https://keybase.io/cicconetti) on keybase.
+  * I have a public key ASBZtDyt1cK3c9Pu5u77HZt_dKyi1HL7OTyQXYAMf5q8Ywo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101635e9fcaab2041d9751fbbd22966073b13c0a0a987f2ef2867b1713c5d78bb360a",
+      "host": "keybase.io",
+      "kid": "012059b43cadd5c2b773d3eee6eefb1d9b7f74aca2d472fb393c905d800c7f9abc630a",
+      "uid": "3fd9930341ad3a32ab77c57391732e19",
+      "username": "cicconetti"
+    },
+    "merkle_root": {
+      "ctime": 1568412980,
+      "hash": "55163cc611b366bafe4950bda2b66e0c4623662b8dd1cb9662b8077d1be8508252ebbb536aedb636bb8630bce73014d339391fb75e9f44f1f3ac98b409673234",
+      "hash_meta": "06764ebc38aa480829689a0450c0959906d94ee47e9dbf387b25d4e2b9eccc06",
+      "seqno": 7218819
+    },
+    "service": {
+      "entropy": "w9nf4SQBZY31zQVMJKCi/mbl",
+      "hostname": "ccicconetti.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568413005,
+  "expire_in": 504576000,
+  "prev": "84ed499752ce2d83d9540f6a0a66147d7b0a03be8142d109808446495d5059d5",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWbQ8rdXCt3PT7ubu+x2bf3SsotRy+zk8kF2ADH+avGMKp3BheWxvYWTESpcCDsQghO1Jl1LOLYPZVA9qCmYUfXsKA76BQtEJgIRGSV1QWdXEIM6xfytZNduLbfqavj1NexZV62jrHFUdxmyVyNuWZFlIAgHCo3NpZ8RAAZuU5KS4B/5FrZ10UaJm3xET6zSGeNz/JnJE5nsUQzOPbH1kopg7gjvLe8CwnPmgVFOqVwkdR/lQ+MpOUIK5C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDXgns+YbpyHUmV9BKQi6ZusXolOA9vfzLfR+6tkbecmo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cicconetti
+
+==================================================================
