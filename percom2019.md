@@ -5,6 +5,8 @@ layout: page
 
 Presented at [IEEE PerCom 2019](http://www.percom.org/), see [slides](https://www.slideshare.net/cicconetti/lowlatency-distributed-computation-offloading-for-pervasive-environments).
 
+DOI: [10.1109/PERCOM.2019.8767419](https://doi.org/10.1109/PERCOM.2019.8767419)
+
 ### Topics
 
 - Pervasive computing
