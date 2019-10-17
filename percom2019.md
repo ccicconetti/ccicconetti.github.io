@@ -1,9 +1,9 @@
 ---
-title: "Low-latency Distributed Computation Offloading for Pervasive Environments"
+title: "Low-latency distributed computation offloading for pervasive environments"
 layout: page
 ---
 
-Presented at [IEEE PerCom 2019](http://www.percom.org/), see [slides](https://www.slideshare.net/cicconetti/lowlatency-distributed-computation-offloading-for-pervasive-environments).
+Presented at [IEEE PerCom 2019](http://www.percom.org/), full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/8767419), slides [here](https://www.slideshare.net/cicconetti/lowlatency-distributed-computation-offloading-for-pervasive-environments), BibTeX [here](bib/percom2019.bib).
 
 DOI: [10.1109/PERCOM.2019.8767419](https://doi.org/10.1109/PERCOM.2019.8767419)
 

@@ -5,9 +5,9 @@ layout: page
 
 Recent works:
 
-- [Architecture and Performance Evaluation of Distributed Computation Offloading in Edge Computing](simpat.md) in _Simulation Modelling Practice and Theory (Elsevier)_ 
-- [Low-latency Distributed Computation Offloading for Pervasive Environments](percom2019.md) presented at _IEEE PerCom 2019_
-- [An Architectural Framework for Serverless Edge Computing: Design and Emulation Tools](cloudcom2018.md) presented at _IEEE CloudCom 2018_
+- [Architecture and performance evaluation of distributed computation offloading in edge computing](simpat.md) in _Simulation Modelling Practice and Theory (Elsevier)_
+- [Low-latency distributed computation offloading for pervasive environments](percom2019.md) presented at _IEEE PerCom 2019_
+- [An architectural framework for serverless edge computing: Design and emulation tools](cloudcom2018.md) presented at _IEEE CloudCom 2018_
 
 Full list available from your preferred database:
 

@@ -1,5 +1,5 @@
 ---
-title: "An Architectural Framework for Serverless Edge Computing: Design and Emulation Tools"
+title: "An architectural framework for serverless edge computing: Design and emulation tools"
 layout: page
 ---
 

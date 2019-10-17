@@ -1,9 +1,9 @@
 ---
-title: "Architecture and Performance Evaluation of Distributed Computation Offloading in Edge Computing"
+title: "Architecture and performance evaluation of distributed computation offloading in edge computing"
 layout: page
 ---
 
-Published in [Simulation Modelling Practice and Theory](https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory).
+Published in [Simulation Modelling Practice and Theory](https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory), BibTeX [here](bib/simpat.bib).
 
 DOI: [10.1016/j.simpat.2019.102007](https://doi.org/10.1016/j.simpat.2019.102007)
 
@@ -20,7 +20,7 @@ DOI: [10.1016/j.simpat.2019.102007](https://doi.org/10.1016/j.simpat.2019.102007
 
 ### Key contributions
 
-This work is an extension of [Low-latency Distributed Computation Offloading for Pervasive Environments](percom2019.md), which contains the core contribution addressing challenge 1: an overlay of _dispatcher_ elements co-located with edge nodes that estimate the job execution time for every lambda from any client to possible processing elements to predict the execution time of incoming lambda requests and decide the destination accordingly.
+This work is an extension of [Low-latency distributed computation offloading for pervasive environments](percom2019.md), which contains the core contribution addressing challenge 1: an overlay of _dispatcher_ elements co-located with edge nodes that estimate the job execution time for every lambda from any client to possible processing elements to predict the execution time of incoming lambda requests and decide the destination accordingly.
 
 In the extended paper we enrich this proposal by also running testbed experiments to measure the associated processing overhead on high-end Intel Xeon servers and low-end SoC computers (Raspberry Pi3): the results show that the latter may handle a number of possible destinations per lambda in the order of hundreds, whereas full-fledged servers do not exhibit significant slow-down until loaded with thousands of destinations per lambda function.
 
@@ -39,7 +39,7 @@ First, the emulated computer is shown to add negligible overhead, unless simulat
 
 Furthermore, we have run two additional scenarios (with respect to the [conference version](percom2019.md)):
 
-1. Comparison of our proposed distributed dispatcher with a near-optimal centralized solution proposed in the work [Online job dispatching and scheduling in edge-clouds](https://doi.org/10.1109/INFOCOM.2017.8057116) and a distributed tasklet scheduling solution from [Context-Aware Data and Task Placement in Edge Computing Environments](https://doi.org/10.1109/PERCOM.2019.8767386), under different heterogeneous network/load conditions.
+1. Comparison of our proposed distributed dispatcher with a near-optimal centralized solution proposed in the work [Online job dispatching and scheduling in edge-clouds](https://doi.org/10.1109/INFOCOM.2017.8057116) and a distributed tasklet scheduling solution from [Context-aware data and task placement in edge computing environments](https://doi.org/10.1109/PERCOM.2019.8767386), under different heterogeneous network/load conditions.
 2. A sensitivity analysis aimed at studying the relative, possibly compound, effects of the system parameters on the performance in terms of the key performance metrics, using our tool [factorial2kr](https://github.com/ccicconetti/factorial2kr).
 
 Main findings:
