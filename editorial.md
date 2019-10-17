@@ -12,11 +12,15 @@ layout: page
 ### Journal editor
 
 - IEEE Journal on Selected Areas in Communications, series on _Network Softwarization & Enablers_ (2018-2019)
+  (see [call for paper](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/series-network))
 - Elsevier Computer Networks (2009-2013)
 
 ### Conference organization
 
-- IEEE WoWMoM 2019: PhD forum chair
+- [IEEE WoWMoM 2020](http://www.cs.ucc.ie/wowmom2020/):
+  workshops chair (see [call for workshops](http://www.cs.ucc.ie/wowmom2020/call_for_workshops/))
+- [IEEE WoWMoM 2019](http://cs.ucf.edu/wowmom2019/):
+  PhD forum chair
 - IEEE WoWMoM 2013: Industry track chair
 - IEEE IoT-SoS: steering commitee since 2012
 - WiOpt 2010: publication chair
@@ -29,6 +33,7 @@ layout: page
 
 ### Conference TPC
 
+- WPMC
 - IEEE WoWMoM
 - ICDCN (Networking track)
 - IEEE Globecom (Mobile and Wireless Networks)
