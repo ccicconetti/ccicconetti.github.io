@@ -11,6 +11,8 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 
 ### Highlights
 
+- Please consider submitting your paper to the special issue on _Edge Computing in Pervasive Systems_ of Pervasive and Mobile Computing (Elsevier), see more details and submission instructions [here](https://www.journals.elsevier.com/pervasive-and-mobile-computing/call-for-papers/special-issue-on-edge-computing-in-pervasive-systems)
+- Toward distributed computing environments with serverless solutions in edge systems, accepted for publication at IEEE Communications Magazine
 - [Architecture and performance evaluation of distributed computation offloading in edge computing](simpat.md) in _Simulation Modelling Practice and Theory (Elsevier)_
 - [Serverless ETSI MEC](etsimec.md) project, new GitHub repositories
 - [Low-latency distributed computation offloading for pervasive environments](percom2019.md) presented at _IEEE PerCom 2019_

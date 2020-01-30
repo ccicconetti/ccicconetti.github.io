@@ -5,6 +5,7 @@ layout: page
 
 ### Journal guest editor
 
+- Pervasive and Mobile Computing, special issue on _Edge Computing in Pervasive Systems_ (2020) [OPEN NOW, CLICK HERE](https://www.journals.elsevier.com/pervasive-and-mobile-computing/call-for-papers/special-issue-on-edge-computing-in-pervasive-systems)
 - IEEE Communications Magazine, Feature Topic on _Extremely dense wireless networks_ (2014)
 - Elsevier Ad Hoc Networks, special issue on _Recent advances on practical aspects of Wireless Mesh Networks_ (2011)
 - Journal of Discrete Event Dynamic Systems: Theory and Applications (2011)
