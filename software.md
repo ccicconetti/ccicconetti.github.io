@@ -3,6 +3,16 @@ title: "Software"
 layout: page
 ---
 
+## Serverless On Edge (NEW)
+
+[Serverless on Edge](https://github.com/ccicconetti/serverlessonedge) is a framework to distribute stateless tasks (a.k.a.) lambda functions among multiple serverless platforms, with partial integration with [Apache OpenWhisk](https://openwhisk.apache.org/).
+
+It has been developed as part of the research activities that have produced the following scientific articles:
+
+- [Architecture and performance evaluation of distributed computation offloading in edge computing](simpat.md) in _Simulation Modelling Practice and Theory (Elsevier)_
+- [Low-latency distributed computation offloading for pervasive environments](percom2019.md) presented at _IEEE PerCom 2019_
+- [An architectural framework for serverless edge computing: Design and emulation tools](cloudcom2018.md) presented at _IEEE CloudCom 2018_
+
 ## uiiit::etsimec
 
 [uiiit::etsimec](https://github.com/ccicconetti/etsimec) is a
