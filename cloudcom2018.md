@@ -7,6 +7,8 @@ Presented at [IEEE CloudCom 2018](http://cyprusconferences.org/cloudcom2018/), f
 
 DOI: [10.1109/CloudCom2018.2018.00024](https://doi.org/10.1109/CloudCom2018.2018.00024)
 
+GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
+
 ### Topics
 
 - Edge computing
@@ -91,10 +93,10 @@ Among the destination selection algoriths, _round robin_ achieved best performan
 
 ### Future research directions
 
-- Improving scalability of e-routers: the number of entries in the e-tables grow linearly with the number of virtual machines/containers offering lambdas in the whole edge computing domain
-- Study on processing time overhead in e-routers, especially on low-power devices, e.g., RPi3
-- Integration with existing standards, e.g. [ETSI MEC](https://www.etsi.org/technologies/multi-access-edge-computing)
-- Integration with existing serverless frameworks, e.g. [Apache OpenWhisk](https://openwhisk.apache.org/)
+- ~~Improving scalability of e-routers: the number of entries in the e-tables grow linearly with the number of virtual machines/containers offering lambdas in the whole edge computing domain~~: done, to appear in a future paper
+- ~~Study on processing time overhead in e-routers, especially on low-power devices, e.g., RPi3~~: done, to appear in a future paper
+- ~~Integration with existing standards, e.g. [ETSI MEC](https://www.etsi.org/technologies/multi-access-edge-computing)~~: done, see [uiiit::etsimec](https://github.com/ccicconetti/etsimec)
+- ~~Integration with existing serverless frameworks, e.g. [Apache OpenWhisk](https://openwhisk.apache.org/)~~: done, see [this page](https://github.com/ccicconetti/serverlessonedge/blob/master/docs/openwhisk_integration.md) in the Serverless on Edge framework
 - Field testing, esp. with small devices
 - Definition of architecture and protocols for realising full in-network processing, [Golem](https://golem.network/)-style
 

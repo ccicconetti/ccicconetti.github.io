@@ -7,6 +7,8 @@ Published in [Simulation Modelling Practice and Theory](https://www.sciencedirec
 
 DOI: [10.1016/j.simpat.2019.102007](https://doi.org/10.1016/j.simpat.2019.102007)
 
+GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
+
 ### Topics
 
 - Distributed task scheduling

@@ -7,6 +7,8 @@ Presented at [IEEE PerCom 2019](http://www.percom.org/), full paper on [IEEEXplo
 
 DOI: [10.1109/PERCOM.2019.8767419](https://doi.org/10.1109/PERCOM.2019.8767419)
 
+GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
+
 ### Topics
 
 - Pervasive computing
@@ -66,8 +68,8 @@ On the other hand, it scores same or better latency than a centralised approach 
 
 - Algorithms for adjusting the allocation of function on computers
 - More sophisticated estimation/prediction tools
-- Further scalability, esp. as the number of function type grows
-- Integration with existing standards, e.g. [ETSI MEC](https://www.etsi.org/technologies/multi-access-edge-computing)
-- Integration with existing serverless frameworks, e.g. [Apache OpenWhisk](https://openwhisk.apache.org/)
+- ~~Further scalability, esp. as the number of function type grows~~: done, to appear in a future paper
+- ~~Integration with existing standards, e.g. [ETSI MEC](https://www.etsi.org/technologies/multi-access-edge-computing)~~: done, see [uiiit::etsimec](https://github.com/ccicconetti/etsimec)
+- ~~Integration with existing serverless frameworks, e.g. [Apache OpenWhisk](https://openwhisk.apache.org/)~~: done, see [this page](https://github.com/ccicconetti/serverlessonedge/blob/master/docs/openwhisk_integration.md) in the Serverless on Edge framework
 - Field testing, esp. with small devices
 - Definition of architecture and protocols for realising full in-network processing, [Golem](https://golem.network/)-style
