@@ -1,0 +1,40 @@
+#title Example
+participant SEP3
+participant SEP2
+participant SEP1
+participant "MEC orchestrator\nUE app LCM proxy" as MEO
+participant Device app
+participant Client app
+
+SEP1->MEO: register MEC app for task //X//
+SEP2->MEO: register MEC app for task //X//
+SEP3->MEO: register MEC app for task //X//
+
+Client app->Device app: need to execute task //X//
+Device app->MEO:POST ""AppContext""\n(with requirements)
+box over MEO: select subset\nof platforms\noffering task //X//
+
+MEO->Device app:""AppContext""\n(with end-points of\nSEP1,SEP3)
+Device app->Client app:SEP1,SEP3 end-points
+
+box over Client app: select SEP1 at random as primary
+box over Client app: decide randomly if probing: no
+Client app->SEP1:Task //X//
+activate SEP1
+space 2
+SEP1->Client app:Response
+deactivate SEP1
+
+box over Client app: decide randomly if probing: yes
+Client app->SEP1:Task //X//
+activate SEP1
+space 2
+SEP1->Client app:Response
+deactivate SEP1
+space -9
+Client app->SEP3:Task //X//
+activate SEP3
+SEP3->Client app:Response
+deactivate SEP3
+space
+box over Client app: change primary to SEP2
