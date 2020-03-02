@@ -9,6 +9,8 @@ DOI: [10.1109/PERCOM.2019.8767419](https://doi.org/10.1109/PERCOM.2019.8767419)
 
 GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
 
+Authors: C. Cicconetti, M. Conti and A. Passarella
+
 ### Topics
 
 - Pervasive computing
@@ -48,7 +50,7 @@ Performance evaluation on an emulated network in two environments:
 
 Tools used:
 
-- C++ prototype implementation (not _yet_ publicly available) of: distributed dispatcher; computer not actually executing the task but rather returning the response after a time depending on the simulation of the current backlog; computer performing face and eyes detection using [OpenCV](https://opencv.org/); controller for discovery purposes; 
+- C++ prototype implementation: distributed dispatcher; computer not actually executing the task but rather returning the response after a time depending on the simulation of the current backlog; computer performing face and eyes detection using [OpenCV](https://opencv.org/); controller for discovery purposes; see [GitHub repository](https://github.com/ccicconetti/serverlessonedge)
 - [mininet](http://mininet.org/) for network emulation, with extensions to: generate the scenarios; retrieve throughput from the emulated switches; load activity from the real traces; compute shortest paths and install static flow tables in switches
 
 Comparison algorithms:

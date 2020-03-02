@@ -9,6 +9,8 @@ DOI: [10.1109/CloudCom2018.2018.00024](https://doi.org/10.1109/CloudCom2018.2018
 
 GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
 
+Authors: C. Cicconetti, M. Conti and A. Passarella
+
 ### Topics
 
 - Edge computing
@@ -75,7 +77,7 @@ Performance evaluation on an emulated network in three topologies:
 
 Tools used:
 
-- C++ prototype implementation (not _yet_ publicly available) of e-computer (with simulated processing time), e-router, and e-computer, using [gRPC](https://grpc.io/) for all communications, both signalling and serverless function calls
+- C++ prototype implementation of e-computer (with simulated processing time), e-router, and e-computer, using [gRPC](https://grpc.io/) for all communications, both signalling and serverless function calls, see [GitHub repository](https://github.com/ccicconetti/serverlessonedge)
 - [mininet](http://mininet.org/) for network emulation, with extensions to: generate the scenarios; retrieve throughput from the emulated switches; load activity from the real traces; compute shortest paths and install static flow tables in switches
 
 [Short demo on YouTube](https://www.youtube.com/watch?v=pHryny2P864&t=), also showing how a real e-computer (with face/eyes detection) can be reached within the emulated mininet environment from an external serverless client.

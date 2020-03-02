@@ -9,6 +9,8 @@ DOI: [10.1016/j.simpat.2019.102007](https://doi.org/10.1016/j.simpat.2019.102007
 
 GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
 
+Authors: C. Cicconetti, M. Conti and A. Passarella
+
 ### Topics
 
 - Distributed task scheduling
