@@ -1,5 +1,5 @@
 ---
-title: "Posso andare a correre con il coronavirus?"
+title: "Posso andare a correre ai tempi del coronavirus?"
 layout: page
 ---
 

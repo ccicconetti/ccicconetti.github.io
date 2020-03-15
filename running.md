@@ -1,5 +1,5 @@
 ---
-title: "Can I go running with COVID-19?"
+title: "Can I go running in COVID-19 times?"
 layout: page
 ---
 
