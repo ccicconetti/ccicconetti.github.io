@@ -9,7 +9,7 @@ DOI: [10.1109/MCOM.001.1900498](https://doi.org/10.1109/MCOM.001.1900498)
 
 GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
 
-Authors: C. Cicconetti, M. Conti and A. Passarella
+Authors: C. Cicconetti, M. Conti, A. Passarella, and D. Sabella
 
 ### Topics
 
