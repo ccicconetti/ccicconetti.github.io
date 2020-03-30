@@ -11,13 +11,11 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 
 ### Highlights
 
-- **Submit your paper to the special issue on Edge Computing in Pervasive Systems of Pervasive and Mobile Computing (Elsevier)**, see more details and submission instructions [here](https://www.journals.elsevier.com/pervasive-and-mobile-computing/call-for-papers/special-issue-on-edge-computing-in-pervasive-systems)
-- [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge): a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems (**NEW GitHub repository**)
+- [Toward distributed computing environments with serverless solutions in edge systems](serverless-etsi.md), in _IEEE Communications Magazine_
+- Submit your paper before **May 1st, 2020** to the **special issue on Edge Computing in Pervasive Systems** of _Pervasive and Mobile Computing_ (Elsevier), see more details and submission instructions [here](https://www.journals.elsevier.com/pervasive-and-mobile-computing/call-for-papers/special-issue-on-edge-computing-in-pervasive-systems)
+- Serverless on Edge: a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems - [GitHub repo](https://github.com/ccicconetti/serverlessonedge)
 - [Uncoordinated access to serverless computing in MEC systems for IoT](uncoord.md) in _Computer Networks (Elsevier)_
-- Toward distributed computing environments with serverless solutions in edge systems, accepted for publication at IEEE Communications Magazine
 - [Architecture and performance evaluation of distributed computation offloading in edge computing](simpat.md) in _Simulation Modelling Practice and Theory (Elsevier)_
-- [Low-latency distributed computation offloading for pervasive environments](percom2019.md) presented at _IEEE PerCom 2019_
-- [An architectural framework for serverless edge computing: Design and emulation tools](cloudcom2018.md) presented at _IEEE CloudCom 2018_
 
 ### Site map
 
