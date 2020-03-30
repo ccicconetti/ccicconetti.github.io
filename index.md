@@ -11,11 +11,11 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 
 ### Highlights
 
-- [Toward distributed computing environments with serverless solutions in edge systems](serverless-etsi.md), in _IEEE Communications Magazine_
+- [Toward distributed computing environments with serverless solutions in edge systems](serverless-etsi.md), in _IEEE Communications Magazine_, 2020
 - Submit your paper before **May 1st, 2020** to the **special issue on Edge Computing in Pervasive Systems** of _Pervasive and Mobile Computing_ (Elsevier), see more details and submission instructions [here](https://www.journals.elsevier.com/pervasive-and-mobile-computing/call-for-papers/special-issue-on-edge-computing-in-pervasive-systems)
 - Serverless on Edge: a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems - [GitHub repo](https://github.com/ccicconetti/serverlessonedge)
-- [Uncoordinated access to serverless computing in MEC systems for IoT](uncoord.md) in _Computer Networks (Elsevier)_
-- [Architecture and performance evaluation of distributed computation offloading in edge computing](simpat.md) in _Simulation Modelling Practice and Theory (Elsevier)_
+- [Uncoordinated access to serverless computing in MEC systems for IoT](uncoord.md) in _Computer Networks (Elsevier)_, 2020
+- [Architecture and performance evaluation of distributed computation offloading in edge computing](simpat.md) in _Simulation Modelling Practice and Theory (Elsevier)_, 2019
 
 ### Site map
 
