@@ -11,6 +11,7 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 
 ### Highlights
 
+- Submit your paper on wireless & mobile topics to [IEEE WoWMoM'21](http://wowmom2021.iit.cnr.it/), to be hosted in Pisa, Italy in June 7-11, 2021, registration deadline Dec 7, 2020, see [call for papers](http://wowmom2021.iit.cnr.it/call_for_papers.html) for full details
 - [Toward distributed computing environments with serverless solutions in edge systems](serverless-etsi.md), in _IEEE Communications Magazine_, 2020
 - Serverless on Edge: a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems - [GitHub repo](https://github.com/ccicconetti/serverlessonedge)
 - [Uncoordinated access to serverless computing in MEC systems for IoT](uncoord.md) in _Computer Networks (Elsevier)_, 2020

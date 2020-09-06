@@ -13,13 +13,12 @@ layout: page
 ### Journal editor
 
 - IEEE Journal on Selected Areas in Communications, series on _Network Softwarization & Enablers_ (2018-2019)
-  (see [call for paper](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/series-network))
 - Elsevier Computer Networks (2009-2013)
 
 ### Conference organization
 
-- [IEEE WoWMoM 2020](http://www.cs.ucc.ie/wowmom2020/):
-  workshops chair (see [call for workshops](http://www.cs.ucc.ie/wowmom2020/call_for_workshops/))
+- [IEEE WoWMoM 2021](http://wowmom2021.iit.cnr.it/): TPC chair (see [call for papers](http://wowmom2021.iit.cnr.it/call_for_papers.html) submission **deadline Dec 7, 2020**)
+- [IEEE WoWMoM 2020](http://www.cs.ucc.ie/wowmom2020/): workshops chair
 - [IEEE WoWMoM 2019](http://cs.ucf.edu/wowmom2019/):
   PhD forum chair
 - IEEE WoWMoM 2013: Industry track chair
@@ -34,15 +33,20 @@ layout: page
 
 ### Conference TPC
 
-- WPMC
-- IEEE WoWMoM
-- ICDCN (Networking track)
-- IEEE Globecom (Mobile and Wireless Networks)
-- IEEE VTC-Fall (Recent Results)
-- IEEE WF-5G
-- IEEE ISCC (past)
-- IEEE MeshTech (past)
-- IEEE MACOM (past)
-- WiOpt (past)
-- IEEE 3DTV-CON (past)
-- IEEE AWN (past)
+- ICDCN: 2020, 2021
+- IEEE WCNC: 2017, 2018, 2019, 2021
+- IEEE Globecom: 2018, 2019, 2020
+- IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, 2020
+- WF-5G: 2018, 2019, 2020
+- IEEE PIMRC: 2020
+- IEEE SMARTCOM: 2020
+- IEEE MASCOTS: 2020
+- WPMC: 2017, 2019
+- IEEE GlobalSIP: 2019
+- IEEE VTC: 2018, 2019
+- MobiApps: 2018
+- WiOpt: 2013
+- IEEE ISCC: 2011, 2012
+- MACOM: 2009, 2010, 2011
+- European Wireless: 2010, 2011
+- IWCMC: 2009
