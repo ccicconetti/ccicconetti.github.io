@@ -1,11 +1,13 @@
 ---
-title: "An architectural framework for serverless edge computing: Design and emulation tools"
+title: "Serverless edge computing: multi-platform dispatching"
 layout: page
 ---
 
-Presented at [IEEE CloudCom 2018](http://cyprusconferences.org/cloudcom2018/), full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/8590993), slides [here](https://www.slideshare.net/cicconetti/design-and-emulation-tools-for-serverless-edge-computing), BibTeX [here](bib/cloudcom2018.bib).
+Publications:
 
-DOI: [10.1109/CloudCom2018.2018.00024](https://doi.org/10.1109/CloudCom2018.2018.00024)
+1. _A Decentralized Framework for Serverless Edge Computing
+in the Internet of Things_, IEEE Transactions on Network and Service Management, 2020, full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/9193994), DOI: [10.1109/TNSM.2020.3023305](https://doi.org/10.1109/TNSM.2020.3023305).
+2. _An architectural framework for serverless edge computing: Design and emulation tools_, [IEEE CloudCom 2018](http://cyprusconferences.org/cloudcom2018/), full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/8590993), slides [here](https://www.slideshare.net/cicconetti/design-and-emulation-tools-for-serverless-edge-computing), BibTeX [here](bib/cloudcom2018.bib), DOI: [10.1109/CloudCom2018.2018.00024](https://doi.org/10.1109/CloudCom2018.2018.00024).
 
 GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
 
@@ -19,7 +21,7 @@ Authors: C. Cicconetti, M. Conti and A. Passarella
 
 ### Challenge
 
-How to enable lightweight routing of lambda functions in an edge computing domain.
+**How to enable lightweight routing of lambda functions towards multiple platforms operating in an edge computing domain.**
 
 ### Key contribution
 
@@ -35,7 +37,7 @@ Unfortunately, in an edge network both such assumptions fail miserably:
 1. communication between edge nodes may happen through (wireless) access network technologies, which have limited bandwidth and may incur significant transfer delays;
 2. since the edge devices are not (anywhere) as powerful as the application servers in a data centre and there is a (potentially) high communication overhead for synchronisation, scaling the virtual machines/containers required for the execution of lambda functions is complex and expensive.
 
-**The scientific challenge is: realising a lightweight dispatch of lambda function requests in a network made of devices with limited computational capabilities and connectivity.**
+**The scientific challenge is: realising a lightweight & scalable dispatch of lambda function requests in a network made of devices with limited computational capabilities and connectivity.**
 
 ![Architecture](pictures/cloudcom2018.png)
 
@@ -65,15 +67,40 @@ Once the network congestion resolves, the weights will be reset to an initial va
 
 To summarise, the interaction between network monitoring and lambda function forwarding allows to _proactively_ respond to (temporary) network congestion before it affects the performance of the serverless services in use, whereas we rely on distributed passive probing and measurement on e-routers to _reactively_ respond to (temporary) overload of the computation resources of e-computers.
 
+#### Scalability
+
+As the number of e-computers in an edge computing domain grows, the size of the tables in the e-routers increase (linearly). This can become an issue if the e-routers are deployed on resource-limited devices, because of the delay introduced by the table lookup operation.
+
+We have performed measurements on a Raspberry 3, which shows that the issue becomes non-neglible after a few thousands of entries, as can be seen in the following plot (which shows the number of dispatches per second an e-router can do on RPi3, full details on available in the IEEE Trans. on Netw. and Service Manag. paper):
+
+![RPi3 scalability experiments](pictures/cloudcom2018-rpi3.png)
+
+To overcome this possible limitation, we have proposed to use a two-tier hierarchical dispatching scheme: the e-router tables may contain entries not only towards e-computers (i.e., the final destination of a lambda function invocation) but also towards are e-routers, which will, in turn, forward to the final destination.
+
+#### Integration with ETSI MEC
+
+We have studied how to integrate the proposed solution within the [ETSI Multi-Access Edge Computing (MEC)](https://www.etsi.org/technologies/multi-access-edge-computing) architecture:
+
+![ETSI MEC integration](pictures/cloudcom2018-etsimec.png)
+
+A prototype of the implementation, currently limited to the `Mx2` interface, is available as _open source_ on GitHub as [uiiit::etsimec](https://github.com/ccicconetti/etsimec).
+
+#### Integration with Apache OpenWhisk
+
+We have developed proxy modules to allow [Apache OpenWhisk](https://openwhisk.apache.org/) applications to invoke lambda functions, which are then dispatched to one of multiple serverless systems in an edge computing domain, with no changes, see
+[this page](https://github.com/ccicconetti/serverlessonedge/blob/master/docs/openwhisk_integration.md) in the Serverless on Edge framework.
+
 ### Validation
 
 Methodology:
 
-Performance evaluation on an emulated network in three topologies:
+Performance evaluation on an emulated network in several topologies:
 
-1. line topology where an e-router on the far edge forwards lambdas to e-computers all along the line, with ideal vs. non-ideal communication links, and with vs. without network congestion in the middle of the chain
-2. pods topology, to mimic real Mobile Broadband Wireless Access (MBWA) deployments in urban scenarios, where powerful e-computers are located both in the "core" network and constrained e-computers are closed to the users
-3. ring-tree topology, with client sessions following an ON/OFF pattern and with background network traffic injected during the experiments
+- line topology where an e-router on the far edge forwards lambdas to e-computers all along the line, with ideal vs. non-ideal communication links, and with vs. without network congestion in the middle of the chain
+- pods topology, to mimic real Mobile Broadband Wireless Access (MBWA) deployments in urban scenarios, where powerful e-computers are located both in the "core" network and constrained e-computers are closed to the users
+- ring-tree topology, with client sessions following an ON/OFF pattern and with background network traffic injected during the experiments
+- 4x4 grid topology, clients (both Apache OpenWhisk and emulated) connected to external nodes and computation happening in the core nodes
+- large-scale IoT scenario, based on a real deployment in Chicago ([Array of Things](8 https://arrayofthings.github.io/)), to show the effectiveness of the two-tier dispatching scheme
 
 Tools used:
 
@@ -84,21 +111,20 @@ Tools used:
 
 We have implemented three policies in the e-router for destination selection, all tested in emulation experiments:
 
-- _Random proportional_: next destination is selected inversely proportional to the estimated latency
-- _Least impedance_: send the lamdba function to the e-computer that has the smallest estimated latency
-- _Round robin_: serve the e-computers in a weight round robin manner, where the weight is the inverse of the stimate latency
+- **Random proportional**: next destination is selected inversely proportional to the estimated latency
+- **Least impedance**: send the lamdba function to the e-computer that has the smallest estimated latency
+- **Round robin**: serve the e-computers in a weight round robin manner, where the weight is the inverse of the stimate latency. _We have provided mathematical proof that this policy provides both short- and long-term fairness_
 
-Main findings:
+### Main findings
 
-The proposed solution is able to react very well to both fast changing computational load conditions and to temporary network congestion events.
-Among the destination selection algoriths, _round robin_ achieved best performance.
+1. The proposed solution adapts well to fast changing computational load conditions.
+  - In particular, the _round-robin policy_ achieves short- and long-term fairness
+2. It is possible to combat temporary network congestion events y interacting with the underlying SDN controller.
+3. Lambda function dispatching is lightweight enough to be implementd on resource-constrained devices, with negligible performance impact with several serverless platforms (i.e., e-computers).
+  - With e-routing functions deployed on RPi3 device and several thousands of platforms there can be a non-negligible extra delay at the application layer, which can be reduced by adopting a two-tier hierarchical dispatching scheme.
 
 ### Future research directions
 
-- ~~Improving scalability of e-routers: the number of entries in the e-tables grow linearly with the number of virtual machines/containers offering lambdas in the whole edge computing domain~~: done, to appear in a future paper
-- ~~Study on processing time overhead in e-routers, especially on low-power devices, e.g., RPi3~~: done, to appear in a future paper
-- ~~Integration with existing standards, e.g. [ETSI MEC](https://www.etsi.org/technologies/multi-access-edge-computing)~~: done, see [uiiit::etsimec](https://github.com/ccicconetti/etsimec)
-- ~~Integration with existing serverless frameworks, e.g. [Apache OpenWhisk](https://openwhisk.apache.org/)~~: done, see [this page](https://github.com/ccicconetti/serverlessonedge/blob/master/docs/openwhisk_integration.md) in the Serverless on Edge framework
 - Field testing, esp. with small devices
 - Definition of architecture and protocols for realising full in-network processing, [Golem](https://golem.network/)-style
 
