@@ -12,5 +12,5 @@ I am now a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) group
 I have been the project manager of projects FP7 CROWD and ESA SAT4NET, the team leader for Intecs in FP7 SANDRA, and the chief promoter of FP7 projects BETaaS and ICSI.
 In the past I have been involved in FP7 MOTO, FP6 EuQoS, Celtic WINNER+, and other national R&D projects (QuaSAR, NADIR, IPERMOB).
 I was in the editorial board of [Computer Networks](http://www.journals.elsevier.com/computer-networks/) and has served as a member of the organization committee of several international conferences (WoWMoM, IoT-SoS, ISCC, WiOpt, European Wireless, SIMUTools, Valuetools, QoSim, NSTools).
-I co-authored 50+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents.
+I co-authored 60+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents.
 I have an [Erdös Number 3](http://www.oakland.edu/enp/).
