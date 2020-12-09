@@ -33,14 +33,15 @@ layout: page
 
 ### Conference TPC
 
-- ICDCN: 2020, 2021
-- IEEE WCNC: 2017, 2018, 2019, 2021
+- ACM EdgeSys: [2021](https://edge-sys.github.io/2021/)
+- IEEE PIMRC: 2020, [2021](https://pimrc2021.ieee-pimrc.org/)
+- ICDCN: 2020, [2021](http://www.icdcn2021.net/)
+- IEEE WCNC: 2017, 2018, 2019, [2021](https://wcnc2021.ieee-wcnc.org/)
 - IEEE Globecom: 2018, 2019, 2020
-- IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, 2020
+- IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/)
 - WF-5G: 2018, 2019, 2020
-- IEEE PIMRC: 2020
-- IEEE SMARTCOM: 2020
-- IEEE MASCOTS: 2020
+- [IEEE SMARTCOMP](https://www.smart-comp.info/): 2020
+- [IEEE MASCOTS](http://mascots.iitis.pl/): 2020
 - WPMC: 2017, 2019
 - IEEE GlobalSIP: 2019
 - IEEE VTC: 2018, 2019
