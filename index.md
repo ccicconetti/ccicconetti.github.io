@@ -11,7 +11,7 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 
 ### Highlights
 
-- **Submit your paper on wireless & mobile topics to [IEEE WoWMoM'21](http://wowmom2021.iit.cnr.it/), to be hosted in Pisa, Italy in June 7-11, 2021: deadline Dec 14th**, [[call for papers](http://wowmom2021.iit.cnr.it/call_for_papers.html)]
+- **Submit your paper on wireless & mobile topics to [IEEE WoWMoM'21](http://wowmom2021.iit.cnr.it/), to be hosted in Pisa, Italy in June 7-11, 2021: deadline Dec 31st 2020**, [[call for papers](http://wowmom2021.iit.cnr.it/call_for_papers.html)]
 - A Decentralized Framework for Serverless Edge Computing in the Internet of Things, in _IEEE Transactions on Network and Service Management_, 2020 [[activity summary](cloudcom2018.md)]
 - Toward distributed computing environments with serverless solutions in edge systems, in _IEEE Communications Magazine_, 2020 [[activity summary](serverless-etsi.md)]
 - Serverless on Edge: a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems [[GitHub repo](https://github.com/ccicconetti/serverlessonedge)]
@@ -26,7 +26,7 @@ Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) gro
 - [Editorial activities](editorial.md)
 - Research activities on serverless edge computing:
   - [What is edge computing](edgecomputing.md)
-  - [A brief to ETSI MEC](serverless-etsi.md)
+  - [A brief introduction to ETSI MEC](serverless-etsi.md)
   - [Multi-platform dispatching](cloudcom2018.md) [**updated on Sep 14, 2020**]
   - [Response time estimation](percom2019.md)
   - [Uncoordinated access](uncoord.md)
