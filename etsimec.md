@@ -3,7 +3,7 @@ title: "Serverless ETSI MEC"
 layout: page
 ---
 
-This project within the [Ubiquitout Internet research group](http://cnd.iit.cnr.it/) is aimed at providing an open source ([MIT license](https://en.wikipedia.org/wiki/MIT_License)) implementation of serverless services in an ETSI MEC compliant edge computing domain.
+This project within the [Ubiquitous Internet research group](http://cnd.iit.cnr.it/) is aimed at providing an open source ([MIT license](https://en.wikipedia.org/wiki/MIT_License)) implementation of serverless services in an ETSI MEC compliant edge computing domain.
 
 Serverless computing, also called Function-as-a-Service, is an emerging paradigm where clients request the remote execution of code in a stateless manner.
 

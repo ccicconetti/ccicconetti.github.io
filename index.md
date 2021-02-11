@@ -3,7 +3,7 @@ title: Claudio Cicconetti's website
 layout: default
 ---
 
-Hello, I'm a Researcher in the [Ubiquitout Internet](http://cnd.iit.cnr.it/) group of [IIT-CNR](http://www.iit.cnr.it/).
+Hello, I'm a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) group of [IIT-CNR](http://www.iit.cnr.it/).
 
 **Short experience list**: MAC protocols and scheduling in wireless systems (WLAN, 802.16, LTE & beyond); performance evaluation via simulation; C++ programming; satellite communication; SDR; SDN; edge computing.
 
