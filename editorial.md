@@ -33,6 +33,7 @@ layout: page
 
 ### Conference TPC
 
+- IEEE ISCC: 2011, 2012, [2021](https://iscc2021.unipi.gr/)
 - ACM EdgeSys: [2021](https://edge-sys.github.io/2021/)
 - IEEE PIMRC: 2020, [2021](https://pimrc2021.ieee-pimrc.org/)
 - ICDCN: 2020, [2021](http://www.icdcn2021.net/)
@@ -47,7 +48,6 @@ layout: page
 - IEEE VTC: 2018, 2019
 - MobiApps: 2018
 - WiOpt: 2013
-- IEEE ISCC: 2011, 2012
 - MACOM: 2009, 2010, 2011
 - European Wireless: 2010, 2011
 - IWCMC: 2009
