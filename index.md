@@ -32,3 +32,6 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) gro
   - [Response time estimation](percom2019.md)
   - [Uncoordinated access](uncoord.md)
   - [An emulation framework](simpat.md)
+
+[![](pictures/Dorabadge1.png)](https://sfdora.org/)
+
