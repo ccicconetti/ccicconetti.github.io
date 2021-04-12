@@ -17,7 +17,8 @@ layout: page
 
 ### Conference organization
 
-- [IEEE WoWMoM 2021](http://wowmom2021.iit.cnr.it/): TPC chair (see [call for papers](http://wowmom2021.iit.cnr.it/call_for_papers.html) submission **deadline Dec 7, 2020**)
+- IEEE PerCom 2022: Vice TPC chair
+- [IEEE WoWMoM 2021](http://wowmom2021.iit.cnr.it/): TPC chair
 - [IEEE WoWMoM 2020](http://www.cs.ucc.ie/wowmom2020/): workshops chair
 - [IEEE WoWMoM 2019](http://cs.ucf.edu/wowmom2019/):
   PhD forum chair
