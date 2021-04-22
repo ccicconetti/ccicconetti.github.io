@@ -43,7 +43,7 @@ layout: page
 - IEEE Globecom: 2018, 2019, 2020
 - IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/)
 - WF-5G: 2018, 2019, 2020
-- [IEEE SMARTCOMP](https://www.smart-comp.info/): 2020
+- [IEEE SMARTCOMP](https://www.smart-comp.info/): 2020, 2021
 - [IEEE MASCOTS](http://mascots.iitis.pl/): 2020
 - WPMC: 2017, 2019
 - IEEE GlobalSIP: 2019
