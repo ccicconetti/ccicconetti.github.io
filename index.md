@@ -16,15 +16,13 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) gro
 - "A Decentralized Framework for Serverless Edge Computing in the Internet of Things", in _IEEE Transactions on Network and Service Management_, 2020 [[activity summary](cloudcom2018.md)]
 - "Toward distributed computing environments with serverless solutions in edge systems", in _IEEE Communications Magazine_, 2020 [[activity summary](serverless-etsi.md)]
 - `ServerlessOnEdge`: a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems [[GitHub repo](https://github.com/ccicconetti/serverlessonedge)]
-- "Uncoordinated access to serverless computing in MEC systems for IoT" in _Computer Networks (Elsevier)_, 2020 [[activity summary](uncoord.md)]
-- "Architecture and performance evaluation of distributed computation offloading in edge computing" in _Simulation Modelling Practice and Theory (Elsevier)_, 2019 [[activity summary](simpat.md)]
 
 ### Site map
 
 - [Short bio](bio.md)
 - [Publications](publications.md)
 - [Software](software.md)
-- [Editorial activities](editorial.md)
+- [Projects](projects.md)
 - Research activities on serverless edge computing:
   - [What is edge computing](edgecomputing.md)
   - [A brief introduction to ETSI MEC](serverless-etsi.md)
@@ -32,6 +30,8 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) gro
   - [Response time estimation](percom2019.md)
   - [Uncoordinated access](uncoord.md)
   - [An emulation framework](simpat.md)
+- [Editorial activities](editorial.md)
+- [Popular science](popular.md)
 
 [![](pictures/Dorabadge1.png)](https://sfdora.org/)
 
