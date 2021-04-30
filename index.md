@@ -12,9 +12,8 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) gro
 ### Highlights
 
 - List of papers accepted at [IEEE WoWMoM'21](http://wowmom2021.iit.cnr.it/) available, register to the conference [here](http://wowmom2021.iit.cnr.it/registration.html), it's only 25-30 USD for non-authors. The conference will be fully virtual on June 7-10, 2021
+- "Measurement-driven design and runtime optimization in edge computing: Methodology and tools" accepted at _Computer Networks_, check [more details](mecperf.md)
 - "Serverless Edge Computing: Vision and Challenges" won **best paper** award at _AusPDC 2021_ [check it out!](https://dl.acm.org/doi/10.1145/3437378.3444367)
-- "A Decentralized Framework for Serverless Edge Computing in the Internet of Things", in _IEEE Transactions on Network and Service Management_, 2020 [[activity summary](cloudcom2018.md)]
-- "Toward distributed computing environments with serverless solutions in edge systems", in _IEEE Communications Magazine_, 2020 [[activity summary](serverless-etsi.md)]
 - `ServerlessOnEdge`: a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems [[GitHub repo](https://github.com/ccicconetti/serverlessonedge)]
 
 ### Site map
