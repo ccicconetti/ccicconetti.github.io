@@ -7,6 +7,8 @@ Recent works:
 
 | Title | Venue | Links |
 | ----- | ----- | ----- |
+| On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation | _IEEE SMARTCOMP 2021_ | [summary](statefulfaas.md) |
+| Request Scheduling in Quantum Networks | _IEEE Trans. on Quantum Engineering_ | [summary](tqe2021.md) |
 | A Preliminary Evaluation of QUIC for Mobile Serverless Edge Applications | _ISMS 2021_ | [summary](isms2021.md) |
 | Measurement-driven design and runtime optimization in edge computing: Methodology and tools | _Computer Networks_, 2021 | [summary](mecperf.md) |
 | Serverless Edge Computing: Vision and Challenges | _AusPDC 2021_ (best paper) | [ACM](https://dl.acm.org/doi/10.1145/3437378.3444367), [Research Gate](https://www.researchgate.net/publication/347513802_Serverless_Edge_Computing_Vision_and_Challenges), [BibTeX](bib/auspdc2021.bib) |
