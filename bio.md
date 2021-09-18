@@ -3,7 +3,7 @@ title: Short bio
 layout: page
 ---
 
-![Claudio Cicconetti's picture](pictures/selfie.png)
+![](pictures/bio-infographic.png)
 
 I have a PhD in Information Engineering from the University of Pisa (2007), where I also received my Laurea degree in Computer Science Engineering.
 I have been working in [Intecs](http://www.en.intecs.it/) from 2009 to 2013 as an R&D Manager and a Business Unit leader within the Telecommunications division, where I also acted as the official contact for ETSI and Net!Works.
