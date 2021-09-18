@@ -3,11 +3,9 @@ title: Claudio Cicconetti's website
 layout: default
 ---
 
-Hello, I'm a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) group of [IIT-CNR](http://www.iit.cnr.it/).
+Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) group of [IIT-CNR](http://www.iit.cnr.it/en/), see [short bio](bio.md).
 
-**Short experience list**: MAC protocols and scheduling in wireless systems (WLAN, 802.16, LTE & beyond); performance evaluation via simulation; C++ programming; satellite communication; SDR; SDN; edge computing.
-
-**Current interests**
+### Current interests
 
 - Network softwarisation in beyond 5G systems, esp. **serverless computing** in edge networks.
 - **Quantum networking**, esp. secure data transmission over classical networks with side quantum channel, as well as protocols and algorithms for the realisation of distributed quantum computing through the Quantum Internet of the future.
@@ -44,6 +42,4 @@ Research activities on serverless edge computing:
 
 Research activities on Quantum Internet:
 - [Request scheduling in quantum networks](tqe2021.md)
-
-[![](pictures/Dorabadge1.png)](https://sfdora.org/)
 

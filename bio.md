@@ -15,3 +15,6 @@ In 2021 I have been the recipient, with Prof. Enzo Mingozzi, of a research grant
 I was in the editorial board of [Computer Networks](http://www.journals.elsevier.com/computer-networks/) and has served as a member of the organization committee of several international conferences (WoWMoM, IoT-SoS, ISCC, WiOpt, European Wireless, SIMUTools, Valuetools, QoSim, NSTools).
 I co-authored 60+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents.
 I have an [Erdös Number 3](http://www.oakland.edu/enp/).
+
+[![](pictures/Dorabadge1.png)](https://sfdora.org/)
+
