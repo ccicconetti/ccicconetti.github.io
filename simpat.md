@@ -3,7 +3,7 @@ title: "Architecture and performance evaluation of distributed computation offlo
 layout: page
 ---
 
-Published in [Simulation Modelling Practice and Theory](https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory), BibTeX [here](bib/simpat.bib).
+Published in [Simulation Modelling Practice and Theory](https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory), [BibTeX](bib/simpat.bib), [arXiv](https://arxiv.org/abs/2109.09415).
 
 DOI: [10.1016/j.simpat.2019.102007](https://doi.org/10.1016/j.simpat.2019.102007)
 
