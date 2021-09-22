@@ -42,7 +42,7 @@ layout: page
 - ACM EdgeSys: [2021](https://edge-sys.github.io/2021/)
 - IEEE PIMRC: 2020, [2021](https://pimrc2021.ieee-pimrc.org/)
 - ICDCN: 2020, [2021](http://www.icdcn2021.net/)
-- IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/)
+- IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/), [2022](https://computing.ulster.ac.uk/WoWMoM2022/)
 - [IEEE SMARTCOMP](https://www.smart-comp.info/): 2020, 2021
 - [IEEE MASCOTS](http://mascots.iitis.pl/): 2020
 - WPMC: 2017, 2019
