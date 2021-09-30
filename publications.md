@@ -26,3 +26,4 @@ Full list available from your preferred database:
 - [Google Scholar](https://scholar.google.it/citations?user=sTVmHWUAAAAJ)
 - [ORCID](https://orcid.org/0000-0003-4503-4223)
 - [dblp](https://dblp.org/pers/hd/c/Cicconetti:Claudio)
+- [arXiv](http://arxiv.org/a/cicconetti_c_1) [very partial]
