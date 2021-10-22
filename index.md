@@ -17,9 +17,7 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) 
 - "On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation", best paper nominee at [SMARTCOMP'21](https://www.smart-comp.info/), see [summary](statefulfaas.md), [presentation on YouTube](https://youtu.be/gc1pQ56UMAA)
 - "Request Scheduling in Quantum Networks" published in IEEE Transactions on Quantum Engineering, see [summary](tqe2021.md)
 - "A Preliminary Evaluation of QUIC for Mobile Serverless Edge Applications" presented at [ISMS'21](http://wowmom2021.iit.cnr.it/workshops/isms-2021/), see [summary](isms2021.md)
-- "Measurement-driven design and runtime optimization in edge computing: Methodology and tools" accepted at _Computer Networks_, check [more details](mecperf.md)
 - "Serverless Edge Computing: Vision and Challenges" won best paper award at _AusPDC 2021_ [check it out!](https://dl.acm.org/doi/10.1145/3437378.3444367)
-- `ServerlessOnEdge`: a framework to distribute lambda functions to multiple serverless platforms in decentralized/edge systems, see [GitHub repo](https://github.com/ccicconetti/serverlessonedge)
 
 ### Site map
 

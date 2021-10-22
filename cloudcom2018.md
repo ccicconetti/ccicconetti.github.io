@@ -5,8 +5,7 @@ layout: page
 
 Publications:
 
-1. _A Decentralized Framework for Serverless Edge Computing
-in the Internet of Things_, IEEE Transactions on Network and Service Management, 2020, full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/9193994), DOI: [10.1109/TNSM.2020.3023305](https://doi.org/10.1109/TNSM.2020.3023305).
+1. _A Decentralized Framework for Serverless Edge Computing in the Internet of Things_, IEEE Transactions on Network and Service Management, 2020, full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/9193994), DOI: [10.1109/TNSM.2020.3023305](https://doi.org/10.1109/TNSM.2020.3023305), [arXiv](https://arxiv.org/abs/2110.10974).
 2. _An architectural framework for serverless edge computing: Design and emulation tools_, [IEEE CloudCom 2018](http://cyprusconferences.org/cloudcom2018/), full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/8590993), slides [here](https://www.slideshare.net/cicconetti/design-and-emulation-tools-for-serverless-edge-computing), BibTeX [here](bib/cloudcom2018.bib), DOI: [10.1109/CloudCom2018.2018.00024](https://doi.org/10.1109/CloudCom2018.2018.00024).
 
 GitHub repository: [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
