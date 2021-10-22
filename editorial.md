@@ -34,6 +34,7 @@ layout: page
 
 ### Conference TPC
 
+- [IEEE SMARTCOMP](https://www.smart-comp.info/): 2020, 2021, 2022
 - IEEE WCNC: 2017, 2018, 2019, [2021](https://wcnc2021.ieee-wcnc.org/), [2022](https://wcnc2022.ieee-wcnc.org/)
 - ACM MobileServerless: [2021](https://www.it.uc3m.es/mbsvless21/)
 - IEEE Globecom: 2018, 2019, 2020, 2021
@@ -43,7 +44,6 @@ layout: page
 - IEEE PIMRC: 2020, [2021](https://pimrc2021.ieee-pimrc.org/)
 - ICDCN: 2020, [2021](http://www.icdcn2021.net/)
 - IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/), [2022](https://computing.ulster.ac.uk/WoWMoM2022/)
-- [IEEE SMARTCOMP](https://www.smart-comp.info/): 2020, 2021
 - [IEEE MASCOTS](http://mascots.iitis.pl/): 2020
 - WPMC: 2017, 2019
 - IEEE GlobalSIP: 2019
