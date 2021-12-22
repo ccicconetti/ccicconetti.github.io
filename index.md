@@ -8,7 +8,7 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) 
 ### Current interests
 
 - Network softwarisation in beyond 5G systems, esp. **serverless computing** in edge networks.
-- **Quantum networking**, esp. secure data transmission over classical networks with side quantum channel, as well as protocols and algorithms for the realisation of distributed quantum computing through the Quantum Internet of the future.
+- **Quantum networking**, esp. secure data transmission over classical networks with side quantum channel, as well as protocols and algorithms for the realisation of distributed quantum computing through the Quantum Internet of the future -- for an overview of my quantum computing & communication activities, check this short article [_Teaching the qubits to fly_](https://ercim-news.ercim.eu/en128/special/teaching-the-qubits-to-fly) on ERCIM NEWS!
 
 ### Highlights
 
