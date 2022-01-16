@@ -35,9 +35,9 @@ layout: page
 ### Conference TPC
 
 - [IEEE SMARTCOMP](https://www.smart-comp.info/): 2020, 2021, 2022
+- IEEE Globecom: 2018, 2019, 2020, 2021, [2022](https://globecom2022.ieee-globecom.org/)
 - IEEE WCNC: 2017, 2018, 2019, [2021](https://wcnc2021.ieee-wcnc.org/), [2022](https://wcnc2022.ieee-wcnc.org/)
 - ACM MobileServerless: [2021](https://www.it.uc3m.es/mbsvless21/)
-- IEEE Globecom: 2018, 2019, 2020, 2021
 - [WF-5G](https://ieee-wf-5g.org/): 2018, 2019, 2020, 2021
 - IEEE ISCC: 2011, 2012, [2021](https://iscc2021.unipi.gr/)
 - ACM EdgeSys: [2021](https://edge-sys.github.io/2021/)
