@@ -5,7 +5,9 @@ layout: page
 
 C. Cicconetti, M. Conti, and A. Passarella,
 _On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation_,
-IEEE International Conference on Smart Computing 2021 (SMARTCOMP'21).
+IEEE International Conference on Smart Computing 2021 (SMARTCOMP'21),
+full paper on [IEEEXplore](https://ieeexplore.ieee.org/document/9556268),
+DOI: [10.1109/SMARTCOMP52413.2021.00033](https://doi.org/10.1109/SMARTCOMP52413.2021.00033).
 
 ### Resources
 
