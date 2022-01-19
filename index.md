@@ -12,7 +12,7 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) 
 
 ### Highlights
 
-- Working on serverless for pervasive systems? Submit your paper to [\*LESS](https://starless.iit.cnr.it/) by Nov 14, 2021!
+- The list of papers accepted at [\*LESS](https://starless.iit.cnr.it/), workshop on serverless for pervasive systems co-located with [IEEE PerCom'22](http://percom.org/), is available: check them out!
 - Facebook Research Award of "2021 Networking request for proposals in internet and web services" ([announcement](https://research.fb.com/blog/2021/08/announcing-the-winners-of-the-2021-networking-request-for-proposals-in-internet-and-web-services/), [press release in Italian](https://www.unipi.it/index.php/news/item/21844-un-progetto-di-universita-di-pisa-e-cnr-pisano-vince-il-facebook-research-award)) on the topic "Service continuity of serverless computing at the edge via QUIC migration" with [Prof. Enzo Mingozzi](http://www2.ing.unipi.it/~a009395/home/index.htm)
 - "On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation", best paper nominee at [SMARTCOMP'21](https://www.smart-comp.info/), see [summary](statefulfaas.md), [presentation on YouTube](https://youtu.be/gc1pQ56UMAA)
 - "Request Scheduling in Quantum Networks" published in IEEE Transactions on Quantum Engineering, see [summary](tqe2021.md)
