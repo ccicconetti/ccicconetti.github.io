@@ -5,6 +5,7 @@ layout: page
 
 ### Journal guest editor
 
+- Pervasive and Mobile Computing, fast track of selected papers from WoWMoM'21 (2021)
 - Pervasive and Mobile Computing, special issue on _Edge Computing in Pervasive Systems_ (2020)
 - IEEE Communications Magazine, Feature Topic on _Extremely dense wireless networks_ (2014)
 - Elsevier Ad Hoc Networks, special issue on _Recent advances on practical aspects of Wireless Mesh Networks_ (2011)
@@ -17,7 +18,8 @@ layout: page
 
 ### Conference organization
 
-- IEEE PerCom 2022: Vice TPC chair
+- [IEEE PerCom 2022](http://percom.org/): Vice TPC chair
+- [\*LESS 2022](https://starless.iit.cnr.it/): workshop organiser
 - [IEEE WoWMoM 2021](http://wowmom2021.iit.cnr.it/): TPC chair
 - [IEEE WoWMoM 2020](http://www.cs.ucc.ie/wowmom2020/): workshops chair
 - [IEEE WoWMoM 2019](http://cs.ucf.edu/wowmom2019/):
