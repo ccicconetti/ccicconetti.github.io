@@ -10,3 +10,4 @@ layout: page
 - _Cos’è una tecnologia quantistica e come funziona?_ [[YouTube](https://youtu.be/94zs5EcaqM4)]
 - _Come cambierà la comunicazione con il 5G?_ [[YouTube](https://www.youtube.com/watch?v=UTzcqRXA8N0&list=PLb_Qew9Dujki0D-ql_0h0_ccOdFORGYGe), [RaiPlay](https://www.raiplay.it/programmi/domandesnack/connessioni-di-rete/come-cambier-la-comunicazione-con-il-5g)]
 - _Webinar della Ludoteca del Registro.it: Claudio Cicconetti presenta il 5G_ [[YouTube](https://youtu.be/aqzARoTmedk)]
+- _Ma Internet può rompersi?_, panel with Luciano Lenzini, Marco Conti, & Andrea Passarella, moderated by Chiara Spinelli [[YouTube](https://youtu.be/-x-r0mLi3sM)]
