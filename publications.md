@@ -7,6 +7,10 @@ Recent works:
 
 | Title | Venue | Links |
 | ----- | ----- | ----- |
+| Stateless or stateful FaaS? I'll take both! | _Submitted_ | [arXiv](https://arxiv.org/abs/2203.06385) |
+| Resource Allocation in Quantum Networks for Distributed Quantum Computing | _Submitted_ | [arXiv](https://arxiv.org/abs/2203.05844) |
+| FaaS Execution Models for Edge Applications | _Submitted_ | [arXiv](https://arxiv.org/abs/2111.06595) |
+| Stateful Function-as-a-Service at the Edge | _IEEE Computer (in preparation)_ | [arXiv](https://arxiv.org/abs/2109.15040) |
 | On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation | _IEEE SMARTCOMP 2021_ (best paper nominee) | [summary](statefulfaas.md) |
 | Request Scheduling in Quantum Networks | _IEEE Trans. on Quantum Engineering_ | [summary](tqe2021.md) |
 | A Preliminary Evaluation of QUIC for Mobile Serverless Edge Applications | _ISMS 2021_ | [summary](isms2021.md) |
