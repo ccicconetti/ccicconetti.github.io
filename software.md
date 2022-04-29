@@ -3,24 +3,40 @@ title: "Software"
 layout: page
 ---
 
-## ServerlessOnEdge
+I strongly believe that the tools used for research activities should be made publicly available to the scientific community for 1) validation through peer review, 2) reproducibility of results, and in general 3) the advancement of science without forcing practitioners to reimplement the wheel at the beginning of every new research project.
+Therefore, all the software that I developed which could be of interest to the research community is available under a permissive open source license (often MIT), together with the scripts to produce the experimental data published that have been included in publications.
+Here is a list of open source projects grouped by topic:
 
-[Serverless on Edge](https://github.com/ccicconetti/serverlessonedge) is a framework to distribute stateless tasks (a.k.a.) lambda functions among multiple serverless platforms, with partial integration with [Apache OpenWhisk](https://openwhisk.apache.org/). It also includes an experimental support of QUIC
-via Facebook's [proxygen](https://github.com/facebook/proxygen) and
+- [Serverless](#serverless)
+- [Quantum networks](#quantum-networks)
+- [Miscellanea](#miscellanea)
+
+You are welcome to use the software, in which case I would appreciate a citation to one of my relevant papers (as indicated below).
+If you do not find sufficient documentation to use the tools, or there is some incompatibility with newer environments, please let me know.
+
+## Serverless
+
+### ServerlessOnEdge
+
+[Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
+is a framework to distribute stateless tasks (a.k.a.) lambda functions
+among multiple serverless platforms, with partial integration with
+[Apache OpenWhisk](https://openwhisk.apache.org/). It also includes
+an experimental support of QUIC via Facebook's
+[proxygen](https://github.com/facebook/proxygen) and
 [mvfst](https://github.com/facebookincubator/mvfst) libraries.
 
-It has been developed as part of the research activities that have produced the following scientific articles:
+If you use the software in your research please cite this paper:
 
-- [A Decentralized Framework for Serverless Edge Computing in the Internet of Things](cloudcom2018.md) on _IEEE Transactions on Network and Service Management_, 2020
-- [Toward distributed computing environments with serverless solutions in edge systems](serverless-etsi.md) on _IEEE Communications Magazine_, 2020
-- [Architecture and performance evaluation of distributed computation offloading in edge computing](simpat.md) on _Simulation Modelling Practice and Theory (Elsevier)_, 2020
-- [Low-latency distributed computation offloading for pervasive environments](percom2019.md) presented at _IEEE PerCom 2019_
-- [An architectural framework for serverless edge computing: Design and emulation tools](cloudcom2018.md) presented at _IEEE CloudCom 2018_
+> Cicconetti, C., Conti, M., & Passarella, A. (2020).
+> A Decentralized Framework for Serverless Edge Computing in the Internet of Things.
+> IEEE Transactions on Network and Service Management, 18(2), 2166–2180.
+> https://doi.org/10.1109/tnsm.2020.3023305
 
-## uiiit::etsimec
+### ETSI MEC Mx2
 
 [uiiit::etsimec](https://github.com/ccicconetti/etsimec) is a
-work-in-progress implementation of ETSI MEC APIs in modern C++,
+work-in-progress implementation of the Mx2 ETSI MEC API in modern C++,
 with a [gRPC](https://grpc.io/) north-bound interface.
 
 It has the following internal dependencies:
@@ -31,18 +47,14 @@ used in uiiit::etsimec
 - [uiiit::support](https://github.com/ccicconetti/support) collection
 of utility classes and gRPC wrappers, using in uiiit::etsimec
 
-## Quantum routing experiments
+If you use the software in your research please cite this paper:
 
-Work-in-progress experiments on Quantum Networking (esp. routing) with
-[NetSquid](https://netsquid.org/) available in
-[this github repo](https://github.com/ccicconetti/netsquid).
+> Cicconetti, C., Conti, M., Passarella, A., & Sabella, D. (2020).
+> Toward Distributed Computing Environments with Serverless Solutions in Edge Systems.
+> IEEE Communications Magazine, 58(3), 40–46
+> https://doi.org/10.1109/MCOM.001.1900498
 
-## factorial2kr
-
-[factorial2kr](https://github.com/ccicconetti/factorial2kr) is a
-Python script to perform factorial 2^kr analysis.
-
-## uncoordinated serverless access
+### Uncoordinated serverless access
 
 A [numerical tool](https://github.com/ccicconetti/markovsim/) to
 compute the steady-state average delay of clients in a serverless
@@ -57,3 +69,32 @@ becomes the new primary.
 
 The software is written for Python 2.7 and it requires
 [numpy](https://numpy.org/) and [scipy](https://www.scipy.org/).
+
+If you use the software in your research please cite this paper:
+
+> Cicconetti, C., Conti, M., & Passarella, A. (2020).
+> Uncoordinated access to serverless computing in MEC systems for IoT.
+> Computer Networks, 172, 107184.
+> https://doi.org/10.1016/j.comnet.2020.107184
+
+## Quantum networks
+
+1. Quantum networking experiments with [NetSquid](https://netsquid.org/) ([GitHub](https://github.com/ccicconetti/netsquid))
+
+If you use the software in your research please cite this paper:
+
+> Cicconetti, C., Conti, M., & Passarella, A. (2021).
+> Request Scheduling in Quantum Networks.
+> IEEE Transactions on Quantum Engineering, 2, 2–17.
+> https://doi.org/10.1109/TQE.2021.3090532
+
+2. Quantum network provisioning and optimisation ([GitHub](https://github.com/ccicconetti/quantum-routing))
+
+## Miscellanea
+
+### factorial2kr
+
+[factorial2kr](https://github.com/ccicconetti/factorial2kr) is a
+Python script to perform factorial 2^kr analysis.
+
+
