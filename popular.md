@@ -3,6 +3,11 @@ title: "Popular science"
 layout: page
 ---
 
+
+### English
+
+- [_Teaching the qubits to fly_](https://ercim-news.ercim.eu/en128/special/teaching-the-qubits-to-fly) on ERCIM NEWS 128, Jan. 2022
+
 ### Italian
 
 - _"Portami su, Scotty", ovvero Il teletrasporto e altre (inutili) bugie sulle reti quantistiche_ [[YouTube](https://www.youtube.com/watch?v=42g-LEjoWo8_), [BRIGHT Tech Talk 2021](https://nottedeiricercatori.pisa.it/bright-tech-talk-2021/)]
