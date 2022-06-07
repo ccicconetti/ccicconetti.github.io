@@ -6,9 +6,9 @@ layout: page
 ### Journal guest editor
 
 - Pervasive and Mobile Computing, fast track of selected papers from WoWMoM'21 (2021)
-- Pervasive and Mobile Computing, special issue on _Edge Computing in Pervasive Systems_ (2020)
-- IEEE Communications Magazine, Feature Topic on _Extremely dense wireless networks_ (2014)
-- Elsevier Ad Hoc Networks, special issue on _Recent advances on practical aspects of Wireless Mesh Networks_ (2011)
+- Pervasive and Mobile Computing, special issue on [_Edge Computing in Pervasive Systems_](https://doi.org/10.1016/j.pmcj.2022.101617) (2020)
+- IEEE Communications Magazine, Feature Topic on [_Extremely dense wireless networks_](https://ieeexplore.ieee.org/document/7010520/) (2014)
+- Elsevier Ad Hoc Networks, special issue on [_Recent advances on practical aspects of Wireless Mesh Networks_](https://www.sciencedirect.com/journal/ad-hoc-networks/vol/9/issue/8) (2011)
 - Journal of Discrete Event Dynamic Systems: Theory and Applications (2011)
 
 ### Journal editor
