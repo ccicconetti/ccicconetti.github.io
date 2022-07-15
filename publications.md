@@ -9,7 +9,7 @@ Recent works:
 | ----- | ----- | ----- |
 | Quality of Service in Quantum Networks | _Submitted_ | [arXiv](https://arxiv.org/abs/2204.09538) |
 | FaaS Execution Models for Edge Applications | _Submitted_ | [arXiv](https://arxiv.org/abs/2111.06595) |
-| Stateless or stateful FaaS? I'll take both! | _IEEE SMARTCOMP 2022 (to be presented)_ | [arXiv](https://arxiv.org/abs/2203.06385) |
+| Stateless or stateful FaaS? I'll take both! | _IEEE SMARTCOMP 2022 (to be presented)_ | [arXiv](https://arxiv.org/abs/2203.06385) [zenodo](https://doi.org/10.5281/zenodo.6839547) |
 | Resource Allocation in Quantum Networks for Distributed Quantum Computing | _IEEE SMARTCOMP 2022 (to be presented)_ | [arXiv](https://arxiv.org/abs/2203.05844) |
 | Stateful Function-as-a-Service at the Edge | _IEEE Computer (in preparation)_ | [arXiv](https://arxiv.org/abs/2109.15040) |
 | On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation | _IEEE SMARTCOMP 2021_ (best paper nominee) | [summary](statefulfaas.md) |
