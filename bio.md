@@ -14,7 +14,7 @@ In the past I have been involved in FP7 MOTO, FP6 EuQoS, Celtic WINNER+, and oth
 In 2021 I have been the recipient, with Prof. Enzo Mingozzi, of a research grant awarded by the Networking Team at [Facebook](https://research.fb.com/blog/2021/08/announcing-the-winners-of-the-2021-networking-request-for-proposals-in-internet-and-web-services/).
 I was in the editorial board of [Computer Networks](http://www.journals.elsevier.com/computer-networks/) and has served as a member of the organization committee of several international conferences (WoWMoM, IoT-SoS, ISCC, WiOpt, European Wireless, SIMUTools, Valuetools, QoSim, NSTools).
 I co-authored 60+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents.
-I have an [Erdös Number 3](http://www.oakland.edu/enp/).
+I have an [Erdös number of three](http://www.oakland.edu/enp/) and a [Dijkstra number of four](https://www.csauthors.net/distance/claudio-cicconetti/edsger-w-dijkstra).
 
 ## Awards
 
