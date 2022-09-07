@@ -5,8 +5,9 @@ layout: page
 
 ### Resources
 
-- C. Cicconetti, M. Conti, and A. Passarella, _Resource Allocation in Quantum Networks for Distributed Quantum Computing_, accepted at [IEEE SMARTCOMP'22](http://smartcomp.aalto.fi./), [arXiv:2203.05844](https://arxiv.org/abs/2203.05844)
-- C. Cicconetti, M. Conti, and A. Passarella, _Quality of Service in Quantum Networks_, submitted, [arXiv:2204.09538](https://arxiv.org/abs/2204.09538)
+- C. Cicconetti, M. Conti, and A. Passarella, _Resource Allocation in Quantum Networks for Distributed Quantum Computing_, IEEE SMARTCOMP 2022, 
+[IEEE](https://ieeexplore.ieee.org/document/9820750), [arXiv](https://arxiv.org/abs/2203.06385), [BibTeX](bib/smartcomp2022stateless.bib)
+- C. Cicconetti, M. Conti, and A. Passarella, _Quality of Service in Quantum Networks_, accepted at IEEE Network (in press), [arXiv](https://arxiv.org/abs/2204.09538)
 - Source code and artifacts on [GitHub](https://github.com/ccicconetti/quantum-routing)
 
 ### Topics

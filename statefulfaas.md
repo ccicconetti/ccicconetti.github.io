@@ -3,24 +3,30 @@ title: "Stateful FaaS at the edge"
 layout: page
 ---
 
-C. Cicconetti, M. Conti, and A. Passarella,
-_FaaS execution models for edge applications_,
-Pervasive and Mobile Computing,
-DOI: [10.1016/j.pmcj.2022.101689](https://doi.org/10.1016/j.pmcj.2022.101689),
-[BibTeX](bib/pmc2022faas.bib).
-
-C. Cicconetti, M. Conti, and A. Passarella,
+[1] C. Cicconetti, M. Conti, and A. Passarella,
 _On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation_,
 IEEE International Conference on Smart Computing 2021 (SMARTCOMP'21),
-DOI: [10.1109/SMARTCOMP52413.2021.00033](https://doi.org/10.1109/SMARTCOMP52413.2021.00033),
+[IEEE](https://doi.org/10.1109/SMARTCOMP52413.2021.00033),
 [BibTeX](bib/smartcomp2021.bib).
+
+[2] C. Cicconetti, M. Conti, and A. Passarella,
+_FaaS execution models for edge applications_,
+Pervasive and Mobile Computing, 2022,
+[Elsevier](https://doi.org/10.1016/j.pmcj.2022.101689),
+[BibTeX](bib/pmc2022faas.bib).
+
+[3] C. Cicconetti, M. Conti, and A. Passarella,
+_In-Network Computing With Function as a Service at the Edge_,
+IEEE Computer, vol. 55, no. 9, Sept. 2022,
+[IEEE](https://doi.org/10.1109/MC.2021.3130659),
+[BibTeX](bib/computer2022in-network.bib)
 
 ### Resources
 
-- conference presentation on [YouTube](https://youtu.be/gc1pQ56UMAA)
+- conference presentation of [1] on [YouTube](https://youtu.be/gc1pQ56UMAA)
 - source code and artifacts on GitHub:
-  - [simulations](https://github.com/ccicconetti/serverlessonedge/tree/master/StateSim) (see paper _On realizing stateful..._)
-  - prototype experiments (see paper _FaaS execution models..._): [400](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/400_Simple_function_chain), [401](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/401_Simple_function_dag), [402](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/402_Motivation_dag)
+  - [simulations](https://github.com/ccicconetti/serverlessonedge/tree/master/StateSim) [1, 3]
+  - prototype experiments [2]: [400](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/400_Simple_function_chain), [401](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/401_Simple_function_dag), [402](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/402_Motivation_dag)
 
 ### Topics
 
@@ -29,6 +35,8 @@ DOI: [10.1109/SMARTCOMP52413.2021.00033](https://doi.org/10.1109/SMARTCOMP52413.
 - stateful applications
 
 ### Summary
+
+##### Introduction
 
 Function-as-a-Service (FaaS) is a new programming model where a developer only writes _functions_.
 They are then deployed in a run-time environment managed by a serverless platform in the cloud, which takes care of the auto-scaling of the containers that are used to execute the functions based on the instantaneous user demands.
@@ -45,17 +53,26 @@ However, the architecture above does not suit well the structure of a typical ed
 
 ![](pictures/statefulfaas-3.png)
 
-Therefore, **we propose that the state of an application should remain in the edge network**.
+Therefore, in [3] we have studied four options where the application's state could be located to enable **stateful FaaS**:
 
-![](pictures/statefulfaas-4.png)
+- in the cloud: use storage/in-memory services offered by public cloud providers, such as [Redis](https://redis.io/)
+- in the edge: use a distributed storage system at the edge, e.g., [Akka](https://akka.io/)
+- in the function: pass along the state on each function call
+- in the client: keep everything in the caller
 
-To this aim, we have proposed three strategies:
+![](pictures/statefulfaas-6.png)
+
+Our results have shown that the _in the function_ and _in the client_ approaches are promising as they can surpass the other alternatives, in terms of end-to-end latency and network traffic, while being simple and amenable to system optimizations. Thus, we have explored these two options in particular, as reported below.
+
+##### Solutions
+
+In [1] we have proposed three strategies to implement the _in the function/client_ approaches:
 
 1. _Pure FaaS_: State is embedded into function arguments and return value.
 2. _State propagation_: State is propagated along the chain of function invocations.
 3. _State local_: State is stored by the edge nodes and retrieved as needed during the function execution.
 
-We have then extended the strategies to more generic workflows that can be modeled as _directed acyclyc graphs_ (DAGs), for example:
+We have then extended in [2] the strategies to more generic workflows that can be modeled as _directed acyclyc graphs_ (DAGs), for example:
 
 ![](pictures/statefulfaas-5.png)
 
@@ -66,7 +83,7 @@ The three strategies above need to be extended as follows to support DAG workflo
 1. _Pure FaaS_: no change needed.
 2. _State propagation and State local_: workers must support asynchronous function calls, the binding between functions and edge nodes must be known to all workers during a single DAG execution, and the states cannot be propagated along with the arguments.
 
-### Main findings
+##### Main findings
 
 We have evaluated the performance of the proposed solution using a combination of simulations and prototype experiments in emulated networks.
 

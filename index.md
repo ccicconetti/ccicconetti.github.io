@@ -12,9 +12,9 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) 
 
 ### Highlights
 
-- Two papers accepted at [IEEE SMARTCOMP'22](https://smartcomp.aalto.fi/)
-  - Resource Allocation in Quantum Networks for Distributed Quantum Computing, [arXiv:2203.05844](https://arxiv.org/abs/2203.05844)
-  - Stateless or stateful FaaS? I’ll take both!, [arXiv:2203.06385](https://arxiv.org/abs/2203.06385)
+- Two papers published in the Sept. 2022 issue of **IEEE Computer**:
+  - [In-Network Computing With Function as a Service at the Edge](https://ieeexplore.ieee.org/abstract/document/9869606)
+  - [Stateful Function as a Service at the Edge](https://ieeexplore.ieee.org/abstract/document/9869564)
 
 ### Site map
 
