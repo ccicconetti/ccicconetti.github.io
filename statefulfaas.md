@@ -13,12 +13,14 @@ IEEE International Conference on Smart Computing 2021 (SMARTCOMP'21),
 _FaaS execution models for edge applications_,
 Pervasive and Mobile Computing, 2022,
 [Elsevier](https://doi.org/10.1016/j.pmcj.2022.101689),
+[arXiv](https://arxiv.org/abs/2111.06595),
 [BibTeX](bib/pmc2022faas.bib).
 
 [3] C. Cicconetti, M. Conti, and A. Passarella,
 _In-Network Computing With Function as a Service at the Edge_,
 IEEE Computer, vol. 55, no. 9, Sept. 2022,
 [IEEE](https://doi.org/10.1109/MC.2021.3130659),
+[arXiv](https://arxiv.org/abs/2209.02983),
 [BibTeX](bib/computer2022in-network.bib)
 
 ### Resources
