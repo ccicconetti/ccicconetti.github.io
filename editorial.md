@@ -37,6 +37,7 @@ layout: page
 ### Conference TPC
 
 - IEEE PerCom: [2023](https://www.percom.org/PerCom2023/)
+- IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/), [2022](https://computing.ulster.ac.uk/WoWMoM2022/), [2023](https://coe.northeastern.edu/Groups/wowmom2023/index.html)
 - [ACSW](https://acsw.org.au/): 2023
 - IEEE WCNC: 2017, 2018, 2019, [2021](https://wcnc2021.ieee-wcnc.org/), [2022](https://wcnc2022.ieee-wcnc.org/), [2023](https://wcnc2023.ieee-wcnc.org/)
 - IEEE CSCN: [2022](https://cscn2022.ieee-cscn.org/)
@@ -49,7 +50,6 @@ layout: page
 - [WF-5G](https://ieee-wf-5g.org/): 2018, 2019, 2020, 2021
 - ACM EdgeSys: [2021](https://edge-sys.github.io/2021/)
 - ICDCN: 2020, [2021](http://www.icdcn2021.net/)
-- IEEE WoWMoM: 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/), [2022](https://computing.ulster.ac.uk/WoWMoM2022/)
 - [IEEE MASCOTS](http://mascots.iitis.pl/): 2020
 - WPMC: 2017, 2019
 - IEEE GlobalSIP: 2019
