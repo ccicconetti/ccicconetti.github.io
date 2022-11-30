@@ -12,6 +12,7 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) 
 
 ### Highlights
 
+- [Quality of Service in Quantum Networks](https://ieeexplore.ieee.org/document/9964002) published in the Sep-Oct 2022 issue of **IEEE Network**
 - Two papers published in the Sept. 2022 issue of **IEEE Computer**:
   - [In-Network Computing With Function as a Service at the Edge](https://ieeexplore.ieee.org/abstract/document/9869606)
   - [Stateful Function as a Service at the Edge](https://ieeexplore.ieee.org/abstract/document/9869564)
