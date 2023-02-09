@@ -13,10 +13,8 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) 
 ### Highlights
 
 - Submit your paper by **Mar 31, 2023** to the Feature Topic on _Serverless Mobile Computing: From Theory to Practice_ of the IEEE Communications Magazine, info [here]( https://www.comsoc.org/publications/magazines/ieee-communications-magazine/cfp/serverless-mobile-computing-theory-practice)
+- [Service differentiation and fair sharing in distributed quantum computing](https://doi.org/10.1016/j.pmcj.2023.101758) published on **Pervasive and Mobile Computing**
 - [Quality of Service in Quantum Networks](https://ieeexplore.ieee.org/document/9964002) published in the Sep-Oct 2022 issue of **IEEE Network**
-- Two papers published in the Sept. 2022 issue of **IEEE Computer**:
-  - [In-Network Computing With Function as a Service at the Edge](https://ieeexplore.ieee.org/abstract/document/9869606)
-  - [Stateful Function as a Service at the Edge](https://ieeexplore.ieee.org/abstract/document/9869564)
 
 ### Site map
 

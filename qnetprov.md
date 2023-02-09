@@ -5,6 +5,7 @@ layout: page
 
 ### Resources
 
+- C. Cicconetti, M. Conti, and A. Passarella, _Service differentiation and fair sharing in distributed quantum computing_, Elsevier Pervasive and Mobile Computing, 2023, [Elsevier](https://doi.org/10.1016/j.pmcj.2023.101758), [BibTeX](bib/pmc2023.bib), [arXiv](https://arxiv.org/abs/2301.03977)    
 - C. Cicconetti, M. Conti, and A. Passarella, _Resource Allocation in Quantum Networks for Distributed Quantum Computing_, IEEE SMARTCOMP 2022, 
 [IEEE](https://ieeexplore.ieee.org/document/9820750), [arXiv](https://arxiv.org/abs/2203.06385), [BibTeX](bib/smartcomp2022stateless.bib)
 - C. Cicconetti, M. Conti, and A. Passarella, _Quality of Service in Quantum Networks_, IEEE Network, vol. 36, no. 5, pp. 24-31, September/October 2022, [IEEE](https://ieeexplore.ieee.org/document/9964002), [arXiv](https://arxiv.org/abs/2204.09538), [BibTeX](bib/network2022.bib)
