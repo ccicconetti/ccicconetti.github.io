@@ -9,11 +9,11 @@ I have a PhD in Information Engineering from the University of Pisa (2007), wher
 I have been working in [Intecs](http://www.en.intecs.it/) from 2009 to 2013 as an R&D Manager and a Business Unit leader within the Telecommunications division, where I also acted as the official contact for ETSI and Net!Works.
 From 2014 to 2018 I have been a software engineer at [MBI](http://mbigroup.it/en/index) working on the design, development, validation, and operation of Software Defined Radio powered satellite communication platforms.
 I am now a Researcher in the [Ubiquitous Internet](http://cnd.iit.cnr.it/) group of [IIT-CNR](http://www.iit.cnr.it/).
-I have been the project manager of projects FP7 CROWD and ESA SAT4NET, the team leader for Intecs in FP7 SANDRA, and the chief promoter of FP7 projects BETaaS and ICSI.
-In the past I have been involved in FP7 MOTO, FP6 EuQoS, Celtic WINNER+, and other national R&D projects (QuaSAR, NADIR, IPERMOB).
+I have been the project manager of projects FP7 CROWD and ESA SAT4NET, and I have been involved in FP7 projects SANDRA and MOTO, FP6 project EuQoS, Celtic WINNER+, and other national R&D projects (QuaSAR, NADIR, IPERMOB, ARTES 4.0, QUANCOM).
+I am currently involved in H2020 project MARVEL and Horizon Europe projects EDGELESS (where I am the scientific manager), 6Green, and QUID.
 In 2021 I have been the recipient, with Prof. Enzo Mingozzi, of a research grant awarded by the Networking Team at [Facebook](https://research.fb.com/blog/2021/08/announcing-the-winners-of-the-2021-networking-request-for-proposals-in-internet-and-web-services/).
-I was in the editorial board of [Computer Networks](http://www.journals.elsevier.com/computer-networks/) and has served as a member of the organization committee of several international conferences (WoWMoM, IoT-SoS, ISCC, WiOpt, European Wireless, SIMUTools, Valuetools, QoSim, NSTools).
-I co-authored 60+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents.
+I am an editor of the IEEE Networking Letters and a member of the program committee of several international conferences (including IEEE PerCom, IEEE WoWMoM, IEEE ISCC, IEEE WCNC, ACM CCgrid).
+I co-authored 60+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents, with an h-index of 27 (Google scholar).
 I have an [Erdös number of three](http://www.oakland.edu/enp/) and a [Dijkstra number of four](https://www.csauthors.net/distance/claudio-cicconetti/edsger-w-dijkstra).
 
 ## Awards
