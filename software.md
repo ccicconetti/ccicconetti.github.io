@@ -3,13 +3,27 @@ title: "Software"
 layout: page
 ---
 
-I strongly believe that the tools used for research activities should be made publicly available to the scientific community for 1) validation through peer review, 2) reproducibility of results, and in general 3) the advancement of science without forcing practitioners to reimplement the wheel at the beginning of every new research project.
-Therefore, all the software that I developed which could be of interest to the research community is available under a permissive open source license (often MIT), together with the scripts to produce the experimental data published that have been included in publications.
+I strongly believe that the tools used for research activities should be made publicly available to the scientific community for
+
+1. validation through peer review, 
+2. reproducibility of results, and in general 
+3. the advancement of science without forcing practitioners to reimplement the wheel at the beginning of every new research project.
+
+_Therefore, all the software that I developed which could be of interest to the research community is available under a permissive open source license (often MIT), together with the scripts to produce the experimental data published that have been included in publications._
+
 Here is a list of open source projects grouped by topic:
 
 - [Serverless](#serverless)
+  - [ServerlessOnEdge](#serverlessonedge)
+  - [ETSI MEC Mx2](#etsi-mec-mx2)
+  - [ETSI MEC/QKD](#etsi-mecqkd)
+  - [Uncoordinated serverless access](#uncoordinated-serverless-access)
 - [Quantum networks](#quantum-networks)
+  - [NetSquid quantum routing modules](#netsquid-quantum-routing-modules)
+  - [QueeR](#queer)
 - [Miscellanea](#miscellanea)
+  - [factorial2kr](#factorial2kr)
+  - [Kafka HDD](#kafka-hdd)
 
 You are welcome to use the software, in which case I would appreciate a citation to one of my relevant papers (as indicated below).
 If you do not find sufficient documentation to use the tools, or there is some incompatibility with newer environments, please let me know.
@@ -54,6 +68,11 @@ If you use the software in your research please cite this paper:
 > IEEE Communications Magazine, 58(3), 40–46
 > https://doi.org/10.1109/MCOM.001.1900498
 
+### ETSI MEC/QKD
+
+In [this repository](https://github.com/ccicconetti/etsi-mec-qkd) you can find an implementation of the Mx2 ETSI MEC API in Rust, developed within the Italian project QUANCOM on quantum-secure communications.
+The software is intended as a starting point to write a full MEC orchestrator for the optimization of resource allocation in an edge network where some nodes are provided with Quantum Key Distribution (QKD) devices.
+
 ### Uncoordinated serverless access
 
 A [numerical tool](https://github.com/ccicconetti/markovsim/) to
@@ -79,7 +98,9 @@ If you use the software in your research please cite this paper:
 
 ## Quantum networks
 
-1. Quantum networking experiments with [NetSquid](https://netsquid.org/) ([GitHub](https://github.com/ccicconetti/netsquid))
+### NetSquid quantum routing modules
+
+Quantum networking experiments with [NetSquid](https://netsquid.org/) ([GitHub](https://github.com/ccicconetti/netsquid))
 
 If you use the software in your research please cite this paper:
 
@@ -88,7 +109,16 @@ If you use the software in your research please cite this paper:
 > IEEE Transactions on Quantum Engineering, 2, 2–17.
 > https://doi.org/10.1109/TQE.2021.3090532
 
-2. Quantum network provisioning and optimisation ([GitHub](https://github.com/ccicconetti/quantum-routing))
+### QueeR
+
+[QueeR](https://github.com/ccicconetti/queer) is a quantum end-to-end entanglement routing simulator, written in C++, to evaluate the performance of networks of quantum repeaters to enable end-to-end entanglement of qubits in remote nodes (e.g., for distributed/blind quantum computing, QKD, or distributed consensus).
+
+If you use the software in your research please cite this paper:
+
+> C. Cicconetti, M. Conti, and A. Passarella (2023)
+> Service differentiation and fair sharing in distributed quantum computing
+> Elsevier Pervasive and Mobile Computing
+> https://doi.org/10.1016/j.pmcj.2023.101758
 
 ## Miscellanea
 
@@ -97,4 +127,6 @@ If you use the software in your research please cite this paper:
 [factorial2kr](https://github.com/ccicconetti/factorial2kr) is a
 Python script to perform factorial 2^kr analysis.
 
+### Kafka HDD
 
+[kafka-hdd](https://github.com/ccicconetti/kafka-hdd) is a repository that contains scripts for the automated execution of experiments with [Kafka](https://kafka.apache.org/).
