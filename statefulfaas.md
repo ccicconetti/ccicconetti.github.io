@@ -23,11 +23,17 @@ IEEE Computer, vol. 55, no. 9, Sept. 2022,
 [arXiv](https://arxiv.org/abs/2209.02983),
 [BibTeX](bib/computer2022in-network.bib)
 
+[4] C. Puliafito, C. Cicconetti, M. Conti, E. Mingozzi, and A. Passarella
+_Balancing local vs. remote state allocation for micro-services in the cloud-edge continuum_
+Pervasive and Mobile Computing, 2023,
+[Elsevier](https://doi.org/10.1016/j.pmcj.2023.101808)
+[BibTeX](bib/pmc2023b.bib)
+
 ### Resources
 
 - conference presentation of [1] on [YouTube](https://youtu.be/gc1pQ56UMAA)
 - source code and artifacts on GitHub:
-  - [simulations](https://github.com/ccicconetti/serverlessonedge/tree/master/StateSim) [1, 3]
+  - [simulations](https://github.com/ccicconetti/serverlessonedge/tree/master/StateSim) [1, 3, 4]
   - prototype experiments [2]: [400](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/400_Simple_function_chain), [401](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/401_Simple_function_dag), [402](https://github.com/ccicconetti/serverlessonedge/tree/master/experiments/402_Motivation_dag)
 
 ### Topics

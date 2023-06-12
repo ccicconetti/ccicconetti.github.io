@@ -13,6 +13,7 @@ Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) 
 ### Highlights
 
 - [Qkd@Edge: Online Admission Control of Edge Applications with QKD-secured Communications](https://arxiv.org/abs/2305.02015) accepted for oral presentation at [IEEE SMARTCOMP 2023](https://smartcomp.isis.vanderbilt.edu/), to be held in Nashville, Tennessee in June 26-29, where I will also give a tutorial on _From quantum computing to quantum networks_. Please [register to the conference](https://smartcomp.isis.vanderbilt.edu/index.html#registration) and join us!
+- [Balancing local vs. remote state allocation for micro-services in the cloud-edge continuum](https://doi.org/10.1016/j.pmcj.2023.101808) published on **Pervasive and Mobile Computing**
 - [Service differentiation and fair sharing in distributed quantum computing](https://doi.org/10.1016/j.pmcj.2023.101758) published on **Pervasive and Mobile Computing**
 - [Quality of Service in Quantum Networks](https://ieeexplore.ieee.org/document/9964002) published in the Sep-Oct 2022 issue of **IEEE Network**
 
