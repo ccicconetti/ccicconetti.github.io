@@ -36,6 +36,7 @@ layout: page
 
 ### Conference TPC
 
+- QServ, co-located with IEEE/ACM UCC: [2023](https://qserv23.github.io/)
 - IEEE PerCom: [2024](https://www.percom.org/), [2023](https://www.percom.org/PerCom2023/)
 - IEEE/ACM CCGrid: [2023](https://ccgrid2023.iisc.ac.in/)
 - IEEE ISCC: 2011, 2012, [2021](https://iscc2021.unipi.gr/), [2022](https://iscc2022.unipi.gr/), [2023](https://2023.ieee-iscc.org/)
