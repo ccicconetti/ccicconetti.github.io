@@ -3,7 +3,9 @@ title: Claudio Cicconetti's website
 layout: default
 ---
 
-Hello, I'm a Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) group of [IIT-CNR](http://www.iit.cnr.it/en/), see [short bio](bio.md).
+Hello, I'm a Senior Researcher in the [Ubiquitous Internet](https://ui.iit.cnr.it/en/) group of [IIT-CNR](http://www.iit.cnr.it/en/), where I am head of the |Quantum⟩ lab.
+
+Check out my [short bio](bio.md).
 
 ### Current interests
 
