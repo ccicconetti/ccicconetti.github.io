@@ -14,6 +14,7 @@ _Therefore, all the software that I developed which could be of interest to the 
 Here is a list of open source projects grouped by topic:
 
 - [Serverless](#serverless)
+  - [EDGELESS](#edgeless)
   - [ServerlessOnEdge](#serverlessonedge)
   - [ETSI MEC Mx2](#etsi-mec-mx2)
   - [ETSI MEC/QKD](#etsi-mecqkd)
@@ -30,13 +31,29 @@ If you do not find sufficient documentation to use the tools, or there is some i
 
 ## Serverless
 
+## EDGELESS
+
+[EDGELESS](https://edgeless-project.eu/) is a collaborative project
+funded by the European Union under the Horizon Europe framework
+programme, with the goal of developing a serverless computing
+framework for decentralized resource-constrained edge nodes.
+
+The [source code](https://github.com/edgeless-project/edgeless)
+is available under a MIT license on GitHub.
+
+The software is developed in [Rust](https://www.rust-lang.org/)
+and it users [WebAssembly](https://webassembly.org/) as lightweight
+run-time environment for function execution and [gRPC](https://grpc.io/)
+for internal communications.
+
 ### ServerlessOnEdge
 
 [Serverless on Edge](https://github.com/ccicconetti/serverlessonedge)
 is a framework to distribute stateless tasks (a.k.a.) lambda functions
 among multiple serverless platforms, with partial integration with
-[Apache OpenWhisk](https://openwhisk.apache.org/). It also includes
-an experimental support of QUIC via Facebook's
+[Apache OpenWhisk](https://openwhisk.apache.org/) and
+[faasd](https://github.com/openfaas/faasd).
+It also includes an experimental support of QUIC via Facebook's
 [proxygen](https://github.com/facebook/proxygen) and
 [mvfst](https://github.com/facebookincubator/mvfst) libraries.
 
