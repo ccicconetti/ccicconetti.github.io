@@ -14,10 +14,7 @@ Check out my [short bio](bio.md).
 
 ### Highlights
 
-- [Serverless Vehicular Edge Computing for the Internet of Vehicles](https://doi.org/10.1109/MIC.2023.3271641) published on **IEEE Internet Computing**
-- [Balancing local vs. remote state allocation for micro-services in the cloud-edge continuum](https://doi.org/10.1016/j.pmcj.2023.101808) published on **Pervasive and Mobile Computing**
-- [Service differentiation and fair sharing in distributed quantum computing](https://doi.org/10.1016/j.pmcj.2023.101758) published on **Pervasive and Mobile Computing**
-- [Quality of Service in Quantum Networks](https://ieeexplore.ieee.org/document/9964002) published on **IEEE Network**
+- Grand winner of the Quantum Internet Application Challenge 2023 with [qperf](https://github.com/ccicconetti/qperf), a quantum link performance measurement tool (see announcement by [QIA](https://quantuminternetalliance.org/2023/11/21/qia-concludes-quantum-internet-application-challenge-2023-names-best-submission/) [_en_] and [IIT-CNR](https://www.iit.cnr.it/news/claudio-cicconetti-vince-la-quantum-internet-application-challenge-2023/) [_it_])
 
 ### Site map
 

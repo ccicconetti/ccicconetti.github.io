@@ -14,12 +14,13 @@ _Therefore, all the software that I developed which could be of interest to the 
 Here is a list of open source projects grouped by topic:
 
 - [Serverless](#serverless)
-  - [EDGELESS](#edgeless)
+- [EDGELESS](#edgeless)
   - [ServerlessOnEdge](#serverlessonedge)
   - [ETSI MEC Mx2](#etsi-mec-mx2)
   - [ETSI MEC/QKD](#etsi-mecqkd)
   - [Uncoordinated serverless access](#uncoordinated-serverless-access)
 - [Quantum networks](#quantum-networks)
+  - [qperf](#qperf)
   - [NetSquid quantum routing modules](#netsquid-quantum-routing-modules)
   - [QueeR](#queer)
 - [Miscellanea](#miscellanea)
@@ -114,6 +115,11 @@ If you use the software in your research please cite this paper:
 > https://doi.org/10.1016/j.comnet.2020.107184
 
 ## Quantum networks
+
+### qperf
+
+A quantum link performance measurement tool, winner of the [Quantum Internet Application Challenge 2023](https://quantuminternetalliance.org/2023/11/21/qia-concludes-quantum-internet-application-challenge-2023-names-best-submission/), see reference implementation [GitHub](https://github.com/ccicconetti/qperf) implemented with [SquidASM](https://github.com/QuTech-Delft/squidasm).
+
 
 ### NetSquid quantum routing modules
 
