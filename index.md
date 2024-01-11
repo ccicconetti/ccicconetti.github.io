@@ -14,6 +14,7 @@ Check out my [short bio](bio.md).
 
 ### Highlights
 
+- New paper published on _Future Generation Computer Systems_: [Efficient topic partitioning of Apache Kafka for high-reliability real-time data streaming applications](https://doi.org/10.1016/j.future.2023.12.028)) ([code](https://github.com/ccicconetti/kafka-hdd))
 - Grand winner of the Quantum Internet Application Challenge 2023 with [qperf](https://github.com/ccicconetti/qperf), a quantum link performance measurement tool (see announcement by [QIA](https://quantuminternetalliance.org/2023/11/21/qia-concludes-quantum-internet-application-challenge-2023-names-best-submission/) [_en_] and [IIT-CNR](https://www.iit.cnr.it/news/claudio-cicconetti-vince-la-quantum-internet-application-challenge-2023/) [_it_])
 
 ### Site map

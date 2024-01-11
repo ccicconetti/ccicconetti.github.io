@@ -1,0 +1,13 @@
+@article{RAPTIS2024173,
+title = {Efficient topic partitioning of Apache Kafka for high-reliability real-time data streaming applications},
+journal = {Future Generation Computer Systems},
+volume = {154},
+pages = {173-188},
+year = {2024},
+issn = {0167-739X},
+doi = {https://doi.org/10.1016/j.future.2023.12.028},
+url = {https://www.sciencedirect.com/science/article/pii/S0167739X23004892},
+author = {Theofanis P. Raptis and Claudio Cicconetti and Andrea Passarella},
+keywords = {Fog computing, Data streaming, Topic partitioning, Distributed systems},
+abstract = {Apache Kafka is a widely-used event streaming platform for reliable high-volume real-time data exchange following a producer–consumer pattern. Despite its popularity, Apache Kafka requires expertise and attention to detail, and there are no default guidelines that can be applied to all use cases without careful consideration. In this paper, we propose a novel approach to optimise the number of partitions and brokers in Apache Kafka, which are two key configuration parameters, under the given characteristics and constraints of the target applications. In particular, we consider the distribution of data-intensive real-time flows exchanged between a set of producers and consumers, which is representative of fog computing environments for ML/AI analytics. We introduce a methodology for modelling the topic partitioning process in Apache Kafka and formulate an optimisation problem to determine the optimal number of partitions to satisfy the application requirements and constraints. We propose two efficient heuristics to solve the optimisation problem, considering the trade-off between resource utilisation and application performance. We evaluate the performance of our approach through numerical simulations, and we demonstrate its practicality by implementing a prototype on an Apache Kafka cluster and conducting experiments in three different scenarios focused on mass consumption vs. production and real-time data streaming. To carry out repeatable experiments in controlled conditions, we developed a reusable framework that fully automatises cluster setup and performance assessment, and we make it available to the community as open-source software.}
+}
