@@ -19,6 +19,7 @@ I have an [Erdös number of three](http://www.oakland.edu/enp/) and a [Dijkstra 
 
 ## Awards
 
+- Grand winner of the Quantum Internet Application Challenge 2023 with [qperf](https://github.com/ccicconetti/qperf)
 - Best IIT Grant 2021 Project Award, "SOE2: ServerlessOnEdge 2.0: reliable, faster & better FaaS at the edge"
 - Facebook Research Award of "2021 Networking request for proposals in internet and web services" ([announcement](https://research.fb.com/blog/2021/08/announcing-the-winners-of-the-2021-networking-request-for-proposals-in-internet-and-web-services/), [press release in Italian](https://www.unipi.it/index.php/news/item/21844-un-progetto-di-universita-di-pisa-e-cnr-pisano-vince-il-facebook-research-award)) on the topic "Service continuity of serverless computing at the edge via QUIC migration" with [Prof. Enzo Mingozzi](http://www2.ing.unipi.it/~a009395/home/index.htm)
 - "On Realizing Stateful FaaS in Serverless Edge Networks: State Propagation", best paper nominee at [SMARTCOMP'21](https://www.smart-comp.info/), see [summary](statefulfaas.md), [presentation on YouTube](https://youtu.be/gc1pQ56UMAA)
