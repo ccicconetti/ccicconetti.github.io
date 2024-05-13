@@ -14,8 +14,9 @@ _Therefore, all the software that I developed which could be of interest to the 
 Here is a list of open source projects grouped by topic:
 
 - [Serverless](#serverless)
-- [EDGELESS](#edgeless)
+  - [EDGELESS](#edgeless)
   - [ServerlessOnEdge](#serverlessonedge)
+  - [Stateful FaaS Simulator](#stateful-faas-simulator)
   - [ETSI MEC Mx2](#etsi-mec-mx2)
   - [ETSI MEC/QKD](#etsi-mecqkd)
   - [Uncoordinated serverless access](#uncoordinated-serverless-access)
@@ -32,7 +33,7 @@ If you do not find sufficient documentation to use the tools, or there is some i
 
 ## Serverless
 
-## EDGELESS
+### EDGELESS
 
 [EDGELESS](https://edgeless-project.eu/) is a collaborative project
 funded by the European Union under the Horizon Europe framework
@@ -64,6 +65,13 @@ If you use the software in your research please cite this paper:
 > A Decentralized Framework for Serverless Edge Computing in the Internet of Things.
 > IEEE Transactions on Network and Service Management, 18(2), 2166–2180.
 > https://doi.org/10.1109/tnsm.2020.3023305
+
+### Stateful FaaS Simulator
+
+[stateful_faas_sim](https://github.com/ccicconetti/stateful-faas-sim) is a
+simulator of stateful FaaS functions, written in Rust programming language,
+also available as a library in
+[crates.io](https://crates.io/crates/stateful_faas_sim).
 
 ### ETSI MEC Mx2
 
