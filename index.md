@@ -12,11 +12,6 @@ Check out my [short bio](bio.md).
 - **Serverless edge computing** (technical manager of [EDGELESS](https://edgeless-project.eu/))
 - **Quantum networking** (topics: QKD integration and optimization, quantum routing and network provisioning)
 
-### Highlights
-
-- The workshop on _Serverless at the edge (SEATED)_ will be hosted by [ACM HPDC](https://www.hpdc.org/2024/) on Mon June 3rd (afternoon): [website](https://edgeless-project.eu/seated/)
-- Tutorial on _A Practical Introduction to Quantum Computing and Networking_ at [ACM HPDC](https://www.hpdc.org/2024/) on Tue June 4th (morning): [registration](https://www.hpdc.org/2024/registration.html), [full conference program](https://www.hpdc.org/2024/program.html)
-
 ### Site map
 
 
