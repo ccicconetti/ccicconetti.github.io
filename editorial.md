@@ -36,11 +36,12 @@ layout: page
 
 ### Conference TPC
 
+- IEEE ICDCS: [2025](https://icdcs2025.icdcs.org/)
 - IEEE PIMRC: [2024](https://pimrc2024.ieee-pimrc.org/), [2020](https://pimrc2020.ieee-pimrc.org/), [2021](https://pimrc2021.ieee-pimrc.org/), [2022](https://pimrc2022.ieee-pimrc.org/)
 - IEEE SMARTCOMP: 2020, 2021, 2022, 2023, [2024](https://smartcomp.w.waseda.jp/)
 - IEEE ICCCN: [2024](https://icccn.org/icccn24/)
 - IEEE ICDCS: [2024](https://icdcs2024.icdcs.org/)
-- IEEE PerCom: [2024](https://www.percom.org/), [2023](https://www.percom.org/PerCom2023/)
+- IEEE PerCom: [2025](https://www.percom.org/), [2024](https://www.percom.org/PerCom2024/), [2023](https://www.percom.org/PerCom2023/)
 - IEEE/ACM CCGrid: [2024](https://2024.ccgrid-conference.org/), [2023](https://ccgrid2023.iisc.ac.in/)
 - IEEE WoWMoM: [2024](https://www.cse.unsw.edu.au/~wowmom/2024/), 2011, 2012, 2013, 2014 2015, 2016, 2017, 2018, 2019, [2020](http://www.cs.ucc.ie/wowmom2020/), [2022](https://computing.ulster.ac.uk/WoWMoM2022/), [2023](https://coe.northeastern.edu/Groups/wowmom2023/index.html)
 - IEEE ICC: [2024](https://icc2024.ieee-icc.org/)
