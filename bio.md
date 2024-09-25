@@ -14,7 +14,8 @@ I am currently involved in H2020 project [MARVEL](https://www.marvel-project.eu/
 In 2021 I have been the recipient, with Prof. Enzo Mingozzi, of a research grant awarded by the Networking Team at [Facebook](https://research.fb.com/blog/2021/08/announcing-the-winners-of-the-2021-networking-request-for-proposals-in-internet-and-web-services/).
 In 2023 I won the [Quantum Internet Application Challenge](https://quantuminternetalliance.org/2023/11/21/qia-concludes-quantum-internet-application-challenge-2023-names-best-submission/) organized by the [Quantum Internet Alliance](https://quantuminternetalliance.org/) with [qperf](https://github.com/ccicconetti/qperf).
 I am an editor of the IEEE Networking Letters and a member of the program committee of several international conferences (including IEEE PerCom, IEEE WoWMoM, IEEE ISCC, IEEE WCNC, ACM CCgrid).
-I co-authored 80+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents, with an h-index of 28 (Google scholar).
+I co-authored 80+ papers published in international journals, peer-reviewed conference proceedings and book chapters, and two international patents, with an h-index of 29 (Google scholar).
+Since 2024I am a member of the scientific and technical committee of [GARR](https://www.garr.it/en/).
 I have an [Erdös number of three](http://www.oakland.edu/enp/) and a [Dijkstra number of four](https://www.csauthors.net/distance/claudio-cicconetti/edsger-w-dijkstra).
 
 ## Awards
