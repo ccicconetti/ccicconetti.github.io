@@ -12,6 +12,10 @@ Check out my [short bio](bio.md).
 - **Serverless edge computing** (technical manager of [EDGELESS](https://edgeless-project.eu/))
 - **Quantum networking** (topics: QKD integration and optimization, quantum routing and network provisioning)
 
+### News
+
+- The SI of IEEE Networking Letters on _Advances in Networking for Edge-Cloud Computing Infrastructures_ is accepting submissions until **July 15, 2025**, check out the [call-for-papers](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/advances-networking-edge-cloud-computing-infrastructures) and consider submitting your short paper there (4-5 pages in IEEE double column format).
+
 ### Site map
 
 
