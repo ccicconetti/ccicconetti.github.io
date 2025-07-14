@@ -14,9 +14,7 @@ Check out my [short bio](bio.md).
 
 ### News
 
-- There are two special issues related to edge-cloud computing:
-  - Short papers (4-5 pages): SI of IEEE Networking Letters on _Advances in Networking for Edge-Cloud Computing Infrastructures_ ([call-for-papers](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/advances-networking-edge-cloud-computing-infrastructures)), deadline **July 15, 2025**
-  - Regular papers: SI of Computer Communications on _Cognitive Serverless Computing at the Edge_ ([call-for-papers](https://www.sciencedirect.com/special-issue/320651/cognitive-serverless-computing-at-the-edge)), deadline **September 1, 2025**
+- Submit your paper to the SI of Computer Communications on _Cognitive Serverless Computing at the Edge_ ([call-for-papers](https://www.sciencedirect.com/special-issue/320651/cognitive-serverless-computing-at-the-edge)), deadline **September 1, 2025**
 
 ### Site map
 
