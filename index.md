@@ -12,10 +12,6 @@ Check out my [short bio](bio.md).
 - **Serverless edge computing** (technical manager of [EDGELESS](https://edgeless-project.eu/))
 - **Quantum networking** (topics: QKD integration and optimization, quantum routing and network provisioning)
 
-### News
-
-- Submit your paper to the SI of Computer Communications on _Cognitive Serverless Computing at the Edge_ ([call-for-papers](https://www.sciencedirect.com/special-issue/320651/cognitive-serverless-computing-at-the-edge)), deadline **September 1, 2025**
-
 ### Site map
 
 
