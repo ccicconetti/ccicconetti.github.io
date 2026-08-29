@@ -21,6 +21,7 @@ layout: page
 
 ### Conference organization
 
+- QCNC [2027](https://qcnc.org/): Track co-chair (Track 1: Quantum Communications and Networks)
 - QCNS [2026](https://qcns.iit.cnr.it/): workshop organizer
 - IEEE PerCom 2026: industry panel chair
 - QuNAP [2025](https://infocom2025.ieee-infocom.org/first-workshop-quantum-networked-applications-and-protocols-qunap-call-papers) and [2026](https://infocom2026.ieee-infocom.org/ieee-infocom-2026-81/pages/second-workshop-workshop-quantum-networked-applications-and-protocols-0): TPC co-chair
@@ -42,6 +43,7 @@ layout: page
 
 ### Conference TPC
 
+- IEEE NCA: [2026](https://www.nca-ieee.org/2026/)
 - IEEE IWQoS: [2025](https://iwqos2025.ieee-iwqos.org/)
 - IEEE WCNC: 2017, 2018, 2019, [2021](https://wcnc2021.ieee-wcnc.org/), [2022](https://wcnc2022.ieee-wcnc.org/), [2023](https://wcnc2023.ieee-wcnc.org/), [2025](https://wcnc2025.ieee-wcnc.org/)
 - IEEE ICDCS: [2025](https://icdcs2025.icdcs.org/)
