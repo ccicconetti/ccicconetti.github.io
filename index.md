@@ -9,8 +9,11 @@ Check out my [short bio](bio.md).
 
 ### Current interests
 
-- **Serverless edge computing** (technical manager of [EDGELESS](https://edgeless-project.eu/))
-- **Quantum networking** (topics: QKD integration and optimization, quantum routing and network provisioning)
+- Architectures and protocols for quantum networks
+- Quantum Internet applications and benchmarking
+- Quantum Key Distribution pilots and applications
+
+(previous interests: serverless edge computing, IoT and M2M communications, architectures and protocols for local and mobile wireless networks)
 
 ### Site map
 

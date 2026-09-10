@@ -13,6 +13,11 @@ _Therefore, all the software that I developed which could be of interest to the 
 
 Here is a list of open source projects grouped by topic:
 
+- [Quantum networks](#quantum-networks)
+  - [qnet\_ll\_sim](#qnet_ll_sim)
+  - [qperf](#qperf)
+  - [NetSquid quantum routing modules](#netsquid-quantum-routing-modules)
+  - [QueeR](#queer)
 - [Serverless](#serverless)
   - [EDGELESS](#edgeless)
   - [ServerlessOnEdge](#serverlessonedge)
@@ -20,16 +25,51 @@ Here is a list of open source projects grouped by topic:
   - [ETSI MEC Mx2](#etsi-mec-mx2)
   - [ETSI MEC/QKD](#etsi-mecqkd)
   - [Uncoordinated serverless access](#uncoordinated-serverless-access)
-- [Quantum networks](#quantum-networks)
-  - [qperf](#qperf)
-  - [NetSquid quantum routing modules](#netsquid-quantum-routing-modules)
-  - [QueeR](#queer)
 - [Miscellanea](#miscellanea)
   - [factorial2kr](#factorial2kr)
   - [Kafka HDD](#kafka-hdd)
 
 You are welcome to use the software, in which case I would appreciate a citation to one of my relevant papers (as indicated below).
 If you do not find sufficient documentation to use the tools, or there is some incompatibility with newer environments, please let me know.
+
+## Quantum networks
+
+### qnet_ll_sim
+
+A quantum network simulator focused on modeling network-level protocols and their interactions with networked quantum applications, available on [GitHub](https://github.com/ccicconetti/qnet_ll_sim) under a MIT license.
+
+If you use the software in your research please cite this paper:
+
+> Cicconetti, C. (2026).
+> HOPPER: A Hop-by-hop Entanglement Distribution Protocol for Asynchronous Quantum Networks.
+> IEEE ICCCN 2026.
+> https://doi.org/10.1109/ICCCN69946.2026.11662702
+
+### qperf
+
+A quantum link performance measurement tool, winner of the [Quantum Internet Application Challenge 2023](https://quantuminternetalliance.org/2023/11/21/qia-concludes-quantum-internet-application-challenge-2023-names-best-submission/), see reference implementation [GitHub](https://github.com/ccicconetti/qperf) implemented with [SquidASM](https://github.com/QuTech-Delft/squidasm).
+
+### NetSquid quantum routing modules
+
+Quantum networking experiments with [NetSquid](https://netsquid.org/) ([GitHub](https://github.com/ccicconetti/netsquid))
+
+If you use the software in your research please cite this paper:
+
+> Cicconetti, C., Conti, M., & Passarella, A. (2021).
+> Request Scheduling in Quantum Networks.
+> IEEE Transactions on Quantum Engineering, 2, 2–17.
+> https://doi.org/10.1109/TQE.2021.3090532
+
+### QueeR
+
+[QueeR](https://github.com/ccicconetti/queer) is a quantum end-to-end entanglement routing simulator, written in C++, to evaluate the performance of networks of quantum repeaters to enable end-to-end entanglement of qubits in remote nodes (e.g., for distributed/blind quantum computing, QKD, or distributed consensus).
+
+If you use the software in your research please cite this paper:
+
+> C. Cicconetti, M. Conti, and A. Passarella (2023)
+> Service differentiation and fair sharing in distributed quantum computing
+> Elsevier Pervasive and Mobile Computing
+> https://doi.org/10.1016/j.pmcj.2023.101758
 
 ## Serverless
 
@@ -121,35 +161,6 @@ If you use the software in your research please cite this paper:
 > Uncoordinated access to serverless computing in MEC systems for IoT.
 > Computer Networks, 172, 107184.
 > https://doi.org/10.1016/j.comnet.2020.107184
-
-## Quantum networks
-
-### qperf
-
-A quantum link performance measurement tool, winner of the [Quantum Internet Application Challenge 2023](https://quantuminternetalliance.org/2023/11/21/qia-concludes-quantum-internet-application-challenge-2023-names-best-submission/), see reference implementation [GitHub](https://github.com/ccicconetti/qperf) implemented with [SquidASM](https://github.com/QuTech-Delft/squidasm).
-
-
-### NetSquid quantum routing modules
-
-Quantum networking experiments with [NetSquid](https://netsquid.org/) ([GitHub](https://github.com/ccicconetti/netsquid))
-
-If you use the software in your research please cite this paper:
-
-> Cicconetti, C., Conti, M., & Passarella, A. (2021).
-> Request Scheduling in Quantum Networks.
-> IEEE Transactions on Quantum Engineering, 2, 2–17.
-> https://doi.org/10.1109/TQE.2021.3090532
-
-### QueeR
-
-[QueeR](https://github.com/ccicconetti/queer) is a quantum end-to-end entanglement routing simulator, written in C++, to evaluate the performance of networks of quantum repeaters to enable end-to-end entanglement of qubits in remote nodes (e.g., for distributed/blind quantum computing, QKD, or distributed consensus).
-
-If you use the software in your research please cite this paper:
-
-> C. Cicconetti, M. Conti, and A. Passarella (2023)
-> Service differentiation and fair sharing in distributed quantum computing
-> Elsevier Pervasive and Mobile Computing
-> https://doi.org/10.1016/j.pmcj.2023.101758
 
 ## Miscellanea
 
