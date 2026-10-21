@@ -10,7 +10,7 @@ Check out my [short bio](bio.md).
 ### Call for papers
 
 - Special Issue on _Α European Vision for the Future of Quantum Communication: Paving the Way to the Quantum Internet_ at [IET Quantum Communication](https://ietresearch. onlinelibrary.wiley.com/hub/journal/26328925/call-for-papers/si-2026-001123) -- Deadline: 31 March 2027
-- _International Conference on Quantum Communications, Networking, and Computing_ -- [QCNC 2027](https://www.qcnc.org/2027/) -- Deadline: 20 October, 2026
+- _International Conference on Quantum Communications, Networking, and Computing_ -- [QCNC 2027](https://www.qcnc.org/2027/) -- Deadline: 20 November, 2026 (extended, firm)
 
 ### Current interests
 
