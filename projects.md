@@ -3,9 +3,10 @@ title: "Projects"
 layout: page
 ---
 
-| Name                                              | Funding                                                                                                                                             | Short                                                                          | Years     |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------- |
-| [QIAPhase2](https://quantuminternetalliance.org/) | [EC/Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) | Quantum Internet Alliance -- Building a global Quantum Internet made in Europe | 2026-2029 |
+| Name                                              | Funding                                                                                                                                             | Short                                                                                                   | Years     |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------- |
+| [QIAPhase2](https://quantuminternetalliance.org/) | [EC/Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) | Quantum Internet Alliance -- Building a global Quantum Internet made in Europe                          | 2026-2029 |
+| [AI-PHOQuS](https://www.ai-phoqus.eu/en/home-2/)  | PN RIC 2021-2027 (national)                                                                                                                         | Artificial Intelligence and Advanced Networks Embedded in Photonics and Quantum Sciences and Technology | 2026-2028 |
 
 ### Completed
 
